@@ -1,0 +1,13 @@
+cat > .gitignore << 'EOF'
+data/
+models/
+results*/
+logs/
+*.npz
+*.pt
+*.obj
+*.pdf
+__pycache__/
+*.pyc
+6678442/
+EOF

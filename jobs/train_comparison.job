@@ -1,0 +1,46 @@
+#!/bin/bash
+#SBATCH --job-name=aneu_compare
+#SBATCH --output=/users/strt0792/MSc_Project/aneurysm_project/logs/compare_%A_%a.log
+#SBATCH --error=/users/strt0792/MSc_Project/aneurysm_project/logs/compare_%A_%a.err
+#SBATCH --time=08:00:00
+#SBATCH --mem=32G
+#SBATCH --cpus-per-task=4
+#SBATCH --gres=gpu:1
+#SBATCH --partition=gpu
+#SBATCH --array=0-2
+
+# Trains all three architectures as a job array — one GPU task each,
+# running in parallel. Submit once:  sbatch jobs/train_comparison.job
+
+module load miniforge/24.7.1
+source activate aneuseg
+
+BASE="/users/strt0792/MSc_Project/aneurysm_project"
+
+# Map array index -> (mode, beta, output dir)
+MODES=("plain_ae"     "beta_vae_low" "vae")
+BETAS=("0.0"          "0.1"          "1.0")
+OUTS=("plain_ae"      "beta_vae_low" "vae_compare")
+
+MODE=${MODES[$SLURM_ARRAY_TASK_ID]}
+BETA=${BETAS[$SLURM_ARRAY_TASK_ID]}
+OUT=${OUTS[$SLURM_ARRAY_TASK_ID]}
+
+echo "Job started : $(date) | Task $SLURM_ARRAY_TASK_ID | Mode $MODE | Beta $BETA"
+nvidia-smi --query-gpu=name --format=csv,noheader
+
+python "$BASE/scripts/train_comparison.py" \
+    --mode          "$MODE" \
+    --beta          "$BETA" \
+    --processed_dir "$BASE/data/processed_sdf" \
+    --out_dir       "$BASE/models/$OUT" \
+    --n_epochs      800 \
+    --batch_size    8 \
+    --lr            5e-5 \
+    --latent_dim    512 \
+    --hidden_dim    512 \
+    --n_freqs       3 \
+    --clamp_dist    0.2 \
+    --augment
+
+echo "Job finished : $(date) | Mode $MODE"

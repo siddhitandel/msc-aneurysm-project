@@ -1,0 +1,27 @@
+#!/bin/bash
+#SBATCH --job-name=aneu_preprocess
+#SBATCH --output=/users/strt0792/MSc_Project/aneurysm_project/logs/preprocess_%j.log
+#SBATCH --error=/users/strt0792/MSc_Project/aneurysm_project/logs/preprocess_%j.err
+#SBATCH --time=04:00:00
+#SBATCH --mem=32G
+#SBATCH --cpus-per-task=8
+#SBATCH --partition=nodes
+
+module load miniforge/24.7.1
+source activate aneuseg
+
+DATA_ROOT="/users/strt0792/MSc_Project/6678442"
+OUT_DIR="/users/strt0792/MSc_Project/aneurysm_project/data/processed"
+SCRIPT="/users/strt0792/MSc_Project/aneurysm_project/scripts/preprocess.py"
+
+echo "Job started : $(date)"
+echo "Node        : $SLURMD_NODENAME"
+
+python "$SCRIPT" \
+    --data_root      "$DATA_ROOT" \
+    --out_dir        "$OUT_DIR" \
+    --n_surface      4096 \
+    --n_space        4096 \
+    --representation occupancy
+
+echo "Job finished : $(date)"

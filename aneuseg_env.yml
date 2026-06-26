@@ -1,0 +1,37 @@
+name: aneuseg
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+
+  # ── Deep learning ──────────────────────────────────────
+  - pytorch=2.2
+  - torchvision
+  - pytorch-cuda=11.8        # matches AIRE A100/V100 CUDA drivers
+
+  # ── 3D geometry & mesh processing ─────────────────────
+  - trimesh=4.3              # mesh loading, sampling, SDF queries
+  - pyvista=0.43             # VTP file reading (AneuX format)
+  - vtk=9.3                  # pyvista dependency
+
+  # ── Data & numerics ───────────────────────────────────
+  - numpy=1.26
+  - pandas=2.2
+  - scipy=1.12
+  - scikit-learn=1.4
+
+  # ── Visualisation ─────────────────────────────────────
+  - matplotlib=3.8
+  - seaborn=0.13
+
+  # ── Experiment tracking ───────────────────────────────
+  - pip:
+    - open3d==0.18.0         # point cloud visualisation & I/O
+    - wandb==0.16            # optional: experiment tracking
+    - tqdm==4.66             # progress bars
+    - einops==0.7            # tensor reshaping helper
+    - point-cloud-utils==0.30.2  # fast Chamfer distance
