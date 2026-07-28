@@ -1,0 +1,5153 @@
+{
+  "n_shapes": 735,
+  "mean_chamfer": 0.22223591689958053,
+  "std_chamfer": 0.10077676506285635,
+  "mean_final_loss": 0.010856310052315698,
+  "per_shape": [
+    {
+      "shape_id": "p043_HAARCREcDAAQDQcbHgANDRQM",
+      "model_size": "medium",
+      "final_loss": 0.017273923382163048,
+      "chamfer_distance": 0.23884186148643494,
+      "train_time_s": 11.362254858016968
+    },
+    {
+      "shape_id": "p044_BBMdFxESDBMcEwcVBhMBExQC",
+      "model_size": "medium",
+      "final_loss": 0.004977025091648102,
+      "chamfer_distance": 0.2854389548301697,
+      "train_time_s": 10.56205677986145
+    },
+    {
+      "shape_id": "p046_FwQADBEGGwQBGwMdHwAADBAK_RICA",
+      "model_size": "medium",
+      "final_loss": 0.005750225391238928,
+      "chamfer_distance": 0.1488945186138153,
+      "train_time_s": 10.593836069107056
+    },
+    {
+      "shape_id": "p091_ABMXCAMBFT4eAAgABwUQFxAR_LICA",
+      "model_size": "medium",
+      "final_loss": 0.003961028531193733,
+      "chamfer_distance": 0.12060435861349106,
+      "train_time_s": 10.546019554138184
+    },
+    {
+      "shape_id": "p092_ABMXCAMBFT4eAAgABwUQFxAR_RICA",
+      "model_size": "medium",
+      "final_loss": 0.005825879983603954,
+      "chamfer_distance": 0.13259777426719666,
+      "train_time_s": 10.53876781463623
+    },
+    {
+      "shape_id": "p094_ERUeAB4WBg0SCwcbHgAABAEU",
+      "model_size": "medium",
+      "final_loss": 0.00687387865036726,
+      "chamfer_distance": 0.21356558799743652,
+      "train_time_s": 10.606469631195068
+    },
+    {
+      "shape_id": "p095_EhMHDx4NAB8BEAgBFxMMFwAW_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.010732648894190788,
+      "chamfer_distance": 0.2492426037788391,
+      "train_time_s": 10.560071229934692
+    },
+    {
+      "shape_id": "p097_Eg4HEwEdGw8NChMdAxQHCxcX",
+      "model_size": "medium",
+      "final_loss": 0.009397474117577076,
+      "chamfer_distance": 0.20325055718421936,
+      "train_time_s": 10.603017807006836
+    },
+    {
+      "shape_id": "p099_FxMbBAMBHAYWFxgdGwQdDBsf",
+      "model_size": "medium",
+      "final_loss": 0.013145221397280693,
+      "chamfer_distance": 0.2098979651927948,
+      "train_time_s": 10.555699110031128
+    },
+    {
+      "shape_id": "p101_EwAeDgoWEw0cHwUOHg4UBhQU",
+      "model_size": "medium",
+      "final_loss": 0.0075869630090892315,
+      "chamfer_distance": 0.21010878682136536,
+      "train_time_s": 10.599976539611816
+    },
+    {
+      "shape_id": "p103_BAgfDgUbAQAKABgGHw4bFgYZ",
+      "model_size": "medium",
+      "final_loss": 0.009404721669852734,
+      "chamfer_distance": 0.2117040902376175,
+      "train_time_s": 10.541367769241333
+    },
+    {
+      "shape_id": "p104_FhMbBBQNHB8BDAMLFw8IFxwd",
+      "model_size": "medium",
+      "final_loss": 0.008863433264195919,
+      "chamfer_distance": 0.0951538234949112,
+      "train_time_s": 10.578683614730835
+    },
+    {
+      "shape_id": "p109_ARQbDwQJHAANEA8BBgAABAQN",
+      "model_size": "medium",
+      "final_loss": 0.012795858085155487,
+      "chamfer_distance": 0.1618383228778839,
+      "train_time_s": 10.562393188476562
+    },
+    {
+      "shape_id": "p114_FxQVDRUaDBQUCQMdFRQJCRAK",
+      "model_size": "medium",
+      "final_loss": 0.00895906612277031,
+      "chamfer_distance": 0.24727441370487213,
+      "train_time_s": 10.56512188911438
+    },
+    {
+      "shape_id": "p115_EgAeDBUaDAAfCAMdEAACCBAK",
+      "model_size": "medium",
+      "final_loss": 0.005998363718390465,
+      "chamfer_distance": 0.2640514075756073,
+      "train_time_s": 10.594819068908691
+    },
+    {
+      "shape_id": "p117_BA4fAAMBDA4eBBUGBg4DBAYR",
+      "model_size": "medium",
+      "final_loss": 0.012140425853431225,
+      "chamfer_distance": 0.14542256295681,
+      "train_time_s": 10.592965841293335
+    },
+    {
+      "shape_id": "p119_AgACCAMJAAUaGwcfGxIPFxER",
+      "model_size": "medium",
+      "final_loss": 0.009370156563818455,
+      "chamfer_distance": 0.08979624509811401,
+      "train_time_s": 10.58565878868103
+    },
+    {
+      "shape_id": "p120_HA4ABB4SHR8cFwMBCA4CCgcd_RICA",
+      "model_size": "medium",
+      "final_loss": 0.009033236652612686,
+      "chamfer_distance": 0.2577846348285675,
+      "train_time_s": 10.60400390625
+    },
+    {
+      "shape_id": "p121_FwgDFBUEDAgCEAMDFQgfEBAU",
+      "model_size": "medium",
+      "final_loss": 0.007545683532953262,
+      "chamfer_distance": 0.13125644624233246,
+      "train_time_s": 10.562479496002197
+    },
+    {
+      "shape_id": "p122_BAQWBAMLHR8WAQMcEQ4aABEd",
+      "model_size": "medium",
+      "final_loss": 0.02174992300570011,
+      "chamfer_distance": 0.2627767324447632,
+      "train_time_s": 10.615527629852295
+    },
+    {
+      "shape_id": "p124_FAQeFBMJDAQfEAUOFgQCEBYZ_RICA",
+      "model_size": "medium",
+      "final_loss": 0.010590753518044949,
+      "chamfer_distance": 0.26141518354415894,
+      "train_time_s": 10.578200340270996
+    },
+    {
+      "shape_id": "p126_FAQBCQUbAQQAGwMcGhQdFhAL_1",
+      "model_size": "medium",
+      "final_loss": 0.007198832929134369,
+      "chamfer_distance": 0.22246094048023224,
+      "train_time_s": 10.611947059631348
+    },
+    {
+      "shape_id": "p126_FAQBCQUbAQQAGwMcGhQdFhAL_2",
+      "model_size": "medium",
+      "final_loss": 0.005474152974784374,
+      "chamfer_distance": 0.18118494749069214,
+      "train_time_s": 10.582254409790039
+    },
+    {
+      "shape_id": "p127_AwIaFhEaCAwSCwgREQkZBAcC",
+      "model_size": "medium",
+      "final_loss": 0.006555413361638784,
+      "chamfer_distance": 0.15289099514484406,
+      "train_time_s": 10.567498922348022
+    },
+    {
+      "shape_id": "p128_EggcChUaBj4=LCUuDAgADhAK_Acom_2",
+      "model_size": "medium",
+      "final_loss": 0.009061818942427635,
+      "chamfer_distance": 0.11604372411966324,
+      "train_time_s": 10.604043006896973
+    },
+    {
+      "shape_id": "p128_EggcChUaBh8aCw0KABUMDBsT_LICA",
+      "model_size": "medium",
+      "final_loss": 0.019009994342923164,
+      "chamfer_distance": 0.2918180823326111,
+      "train_time_s": 10.548810958862305
+    },
+    {
+      "shape_id": "p129_ERUeAB4WBg0SCwcbHgAABAEU_LICA",
+      "model_size": "medium",
+      "final_loss": 0.006558009888976812,
+      "chamfer_distance": 0.1918954849243164,
+      "train_time_s": 10.61148738861084
+    },
+    {
+      "shape_id": "p131_EwgfABQHAD4RChIHLRcLFwEG",
+      "model_size": "medium",
+      "final_loss": 0.010566010139882565,
+      "chamfer_distance": 0.14669880270957947,
+      "train_time_s": 10.567009925842285
+    },
+    {
+      "shape_id": "p133_AxUADhgAFwoWFxgbAA4GDRAT",
+      "model_size": "medium",
+      "final_loss": 0.017510754987597466,
+      "chamfer_distance": 0.24355509877204895,
+      "train_time_s": 10.600889682769775
+    },
+    {
+      "shape_id": "p134_EwkTExwNAT4DEA8IDAkPFxkd_sib",
+      "model_size": "medium",
+      "final_loss": 0.0100417984649539,
+      "chamfer_distance": 0.28822338581085205,
+      "train_time_s": 10.550100088119507
+    },
+    {
+      "shape_id": "p135_FAQtEh8dAQANADkcHRQdBBEd",
+      "model_size": "medium",
+      "final_loss": 0.016016291454434395,
+      "chamfer_distance": 0.2345147430896759,
+      "train_time_s": 10.590832710266113
+    },
+    {
+      "shape_id": "p136_Fw4fBAoWHQwWHwEAHwQUAhoV",
+      "model_size": "medium",
+      "final_loss": 0.004581661894917488,
+      "chamfer_distance": 0.14727449417114258,
+      "train_time_s": 10.551633596420288
+    },
+    {
+      "shape_id": "p137_Bg4eDRUaGw8NCgoDFxMHCwMX",
+      "model_size": "medium",
+      "final_loss": 0.007128490135073662,
+      "chamfer_distance": 0.26189950108528137,
+      "train_time_s": 10.611443281173706
+    },
+    {
+      "shape_id": "p140_GA4LHx8RGg4KDQkWGg4XDRoB",
+      "model_size": "medium",
+      "final_loss": 0.019857417792081833,
+      "chamfer_distance": 0.1755160242319107,
+      "train_time_s": 10.545769929885864
+    },
+    {
+      "shape_id": "p141_FAQfCBUaAAQNAAsGFxMcABEd",
+      "model_size": "medium",
+      "final_loss": 0.01151278056204319,
+      "chamfer_distance": 0.22573700547218323,
+      "train_time_s": 10.5649573802948
+    },
+    {
+      "shape_id": "p142_AwwXAAQAFxMNCAMOBgkLFwYV",
+      "model_size": "medium",
+      "final_loss": 0.009561847895383835,
+      "chamfer_distance": 0.3148762583732605,
+      "train_time_s": 10.50736665725708
+    },
+    {
+      "shape_id": "p144_GgAREAUBFxMNBAUeBwgLFx8Z",
+      "model_size": "medium",
+      "final_loss": 0.008190074935555458,
+      "chamfer_distance": 0.25429147481918335,
+      "train_time_s": 10.565116167068481
+    },
+    {
+      "shape_id": "p145_HQAAFRkWExMHDAsOABUHCBQK_RICA",
+      "model_size": "medium",
+      "final_loss": 0.028082814067602158,
+      "chamfer_distance": 0.3392491042613983,
+      "train_time_s": 10.499293804168701
+    },
+    {
+      "shape_id": "p146_Ag4HCBwEFxMNChMGHg0LFwcX",
+      "model_size": "medium",
+      "final_loss": 0.01760631427168846,
+      "chamfer_distance": 0.14302989840507507,
+      "train_time_s": 10.567756652832031
+    },
+    {
+      "shape_id": "p147_Eg4cDxUeGwQNCggBFxcHABcX",
+      "model_size": "medium",
+      "final_loss": 0.006624518893659115,
+      "chamfer_distance": 0.24335017800331116,
+      "train_time_s": 10.522368431091309
+    },
+    {
+      "shape_id": "p149_HQQGFQIJBxkNABIbAAAbHRgd",
+      "model_size": "medium",
+      "final_loss": 0.0127264941111207,
+      "chamfer_distance": 0.2184029370546341,
+      "train_time_s": 10.568792343139648
+    },
+    {
+      "shape_id": "p150_Bg4cPhcdHBUWCxgAHD4JEBsM",
+      "model_size": "medium",
+      "final_loss": 0.01225331798195839,
+      "chamfer_distance": 0.2391085922718048,
+      "train_time_s": 10.491455316543579
+    },
+    {
+      "shape_id": "p151_FAAtDQUSDAAsCRMVFgAxCQAC_sib",
+      "model_size": "medium",
+      "final_loss": 0.009233655408024788,
+      "chamfer_distance": 0.13838008046150208,
+      "train_time_s": 10.524124145507812
+    },
+    {
+      "shape_id": "p152_AAQABAoWFxMWHxYKAAQUFRAK",
+      "model_size": "medium",
+      "final_loss": 0.014550107531249523,
+      "chamfer_distance": 0.3771878480911255,
+      "train_time_s": 10.586664199829102
+    },
+    {
+      "shape_id": "p153_AwAeAA4JHgAABAoOAQACBAYZ_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.006400867365300655,
+      "chamfer_distance": 0.29088127613067627,
+      "train_time_s": 10.53282618522644
+    },
+    {
+      "shape_id": "p154_HRQeDRUaDBQfCQMdHxQCCRAK_2",
+      "model_size": "medium",
+      "final_loss": 0.007596380077302456,
+      "chamfer_distance": 0.23955102264881134,
+      "train_time_s": 10.553433656692505
+    },
+    {
+      "shape_id": "p154_HRQeDRUaDBQfCQMdHxQCCRAK_1",
+      "model_size": "medium",
+      "final_loss": 0.008130215108394623,
+      "chamfer_distance": 0.23038531839847565,
+      "train_time_s": 10.521074056625366
+    },
+    {
+      "shape_id": "p157_EgAYExEFGx8SDxQOHwgMBB8K",
+      "model_size": "medium",
+      "final_loss": 0.011832117103040218,
+      "chamfer_distance": 0.2414720058441162,
+      "train_time_s": 10.608402013778687
+    },
+    {
+      "shape_id": "p158_Fg4bEgMJER8cDBUcEwIIChwL",
+      "model_size": "medium",
+      "final_loss": 0.009160235524177551,
+      "chamfer_distance": 0.14583343267440796,
+      "train_time_s": 10.559240579605103
+    },
+    {
+      "shape_id": "p159_FRIGExEMEx8AERQOFgALFgEK",
+      "model_size": "medium",
+      "final_loss": 0.011736216023564339,
+      "chamfer_distance": 0.2394562065601349,
+      "train_time_s": 10.621779680252075
+    },
+    {
+      "shape_id": "p160_GhQGGxUcDBQHHwMbGBQaHxAM",
+      "model_size": "medium",
+      "final_loss": 0.011487597599625587,
+      "chamfer_distance": 0.24521498382091522,
+      "train_time_s": 10.576208114624023
+    },
+    {
+      "shape_id": "p161_FBMdGw4aHRsXFwkVFhMBHxEK",
+      "model_size": "medium",
+      "final_loss": 0.008664965629577637,
+      "chamfer_distance": 0.18272370100021362,
+      "train_time_s": 10.620618104934692
+    },
+    {
+      "shape_id": "p162_AwkTAxEGGx8bBAQOHAgdDRQa_1sib",
+      "model_size": "medium",
+      "final_loss": 0.007548990659415722,
+      "chamfer_distance": 0.19962331652641296,
+      "train_time_s": 10.571804285049438
+    },
+    {
+      "shape_id": "p163_EwkdAxESDAkcBwcVEQkBBxQC_1",
+      "model_size": "medium",
+      "final_loss": 0.00803868006914854,
+      "chamfer_distance": 0.23619268834590912,
+      "train_time_s": 10.595958709716797
+    },
+    {
+      "shape_id": "p163_EwkdAxESDAkcBwcVEQkBBxQC_2",
+      "model_size": "medium",
+      "final_loss": 0.015714026987552643,
+      "chamfer_distance": 0.31960225105285645,
+      "train_time_s": 10.551501750946045
+    },
+    {
+      "shape_id": "p165_Gw4aDwQHAhENCg4BBg4eFR4X_sib",
+      "model_size": "medium",
+      "final_loss": 0.007916638627648354,
+      "chamfer_distance": 0.2578350901603699,
+      "train_time_s": 10.604944705963135
+    },
+    {
+      "shape_id": "p166_AwAcBgUBHAQHEQ8REw8JEBwW",
+      "model_size": "medium",
+      "final_loss": 0.02583986148238182,
+      "chamfer_distance": 0.2972674071788788,
+      "train_time_s": 10.529432535171509
+    },
+    {
+      "shape_id": "p167_FxMTDxQCFwAdGxQOHAUEABQW",
+      "model_size": "medium",
+      "final_loss": 0.008486135862767696,
+      "chamfer_distance": 0.2815462052822113,
+      "train_time_s": 10.581983089447021
+    },
+    {
+      "shape_id": "p168_EgQVCAMAHQ0fDBgKFQgdDRoU",
+      "model_size": "medium",
+      "final_loss": 0.0040847198106348515,
+      "chamfer_distance": 0.33963239192962646,
+      "train_time_s": 10.578503131866455
+    },
+    {
+      "shape_id": "p169_FgAeAhkGFw0fDBgOHgIHCxAU_b",
+      "model_size": "medium",
+      "final_loss": 0.008024930953979492,
+      "chamfer_distance": 0.13597416877746582,
+      "train_time_s": 10.638523578643799
+    },
+    {
+      "shape_id": "p170_EgQABhUaDAQBAgMdEAQcAhAK_1",
+      "model_size": "medium",
+      "final_loss": 0.014154063537716866,
+      "chamfer_distance": 0.13752241432666779,
+      "train_time_s": 10.580935716629028
+    },
+    {
+      "shape_id": "p170_EgQABhUaDAQBAgMdEAQcAhAK_2",
+      "model_size": "medium",
+      "final_loss": 0.01153748668730259,
+      "chamfer_distance": 0.2242552936077118,
+      "train_time_s": 10.560381650924683
+    },
+    {
+      "shape_id": "p171_EgAWBAIcAQIbABQREwULFwEL_1",
+      "model_size": "medium",
+      "final_loss": 0.006468229927122593,
+      "chamfer_distance": 0.18875296413898468,
+      "train_time_s": 10.594757080078125
+    },
+    {
+      "shape_id": "p171_EgAWBAIcAQIbABQREwULFwEL_2",
+      "model_size": "medium",
+      "final_loss": 0.007444131188094616,
+      "chamfer_distance": 0.1974940299987793,
+      "train_time_s": 10.55722975730896
+    },
+    {
+      "shape_id": "p172_AAAeAAoSHQ8aGwcDExsUChsR",
+      "model_size": "medium",
+      "final_loss": 0.007178059779107571,
+      "chamfer_distance": 0.22084906697273254,
+      "train_time_s": 10.56044602394104
+    },
+    {
+      "shape_id": "p174_FAQtDhwBBAQaFwcRFz4BCRwO",
+      "model_size": "medium",
+      "final_loss": 0.005381362047046423,
+      "chamfer_distance": 0.19124507904052734,
+      "train_time_s": 10.59281873703003
+    },
+    {
+      "shape_id": "p304_HQQLDREGDAQKCQcBHwQXCRQW_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.005140373948961496,
+      "chamfer_distance": 0.2766743004322052,
+      "train_time_s": 10.578536987304688
+    },
+    {
+      "shape_id": "p304_HQQLDREGDAQKCQcBHwQXCRQW_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.010611877776682377,
+      "chamfer_distance": 0.25089627504348755,
+      "train_time_s": 10.550961971282959
+    },
+    {
+      "shape_id": "p305_HQQLDREGDAQKCQcBHwQXCRQW_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.005305266007781029,
+      "chamfer_distance": 0.3608735203742981,
+      "train_time_s": 10.464101552963257
+    },
+    {
+      "shape_id": "p305_HQQLDREGDAQKCQcBHwQXCRQW_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.008301893249154091,
+      "chamfer_distance": 0.3504786789417267,
+      "train_time_s": 10.44348669052124
+    },
+    {
+      "shape_id": "p305_HQQLDREGDAQKCQcBHwQXCRQW_RICA_3",
+      "model_size": "medium",
+      "final_loss": 0.007650436367839575,
+      "chamfer_distance": 0.20312559604644775,
+      "train_time_s": 10.470269918441772
+    },
+    {
+      "shape_id": "p306_HQIbDwQHAQkNBg8BBg4dDRgb",
+      "model_size": "medium",
+      "final_loss": 0.010636156424880028,
+      "chamfer_distance": 0.2477954626083374,
+      "train_time_s": 10.30069613456726
+    },
+    {
+      "shape_id": "p307_GxQdDxUGDBQcCwMBGRQBCxAW",
+      "model_size": "medium",
+      "final_loss": 0.01290362048894167,
+      "chamfer_distance": 0.17401757836341858,
+      "train_time_s": 10.316181182861328
+    },
+    {
+      "shape_id": "p308_GA4BFRUcBg0WFxgAARULEQEU",
+      "model_size": "medium",
+      "final_loss": 0.01268506608903408,
+      "chamfer_distance": 0.30013787746429443,
+      "train_time_s": 10.275187492370605
+    },
+    {
+      "shape_id": "p309_BggTAhMHCB8aBAUMHRsYDBQb",
+      "model_size": "medium",
+      "final_loss": 0.013121811673045158,
+      "chamfer_distance": 0.3067549169063568,
+      "train_time_s": 10.328514814376831
+    },
+    {
+      "shape_id": "p310_FA4fDh4WHQwcCwIAHw4AARoV",
+      "model_size": "medium",
+      "final_loss": 0.010135599412024021,
+      "chamfer_distance": 0.23852385580539703,
+      "train_time_s": 10.30528998374939
+    },
+    {
+      "shape_id": "p311_GwgcBQUWGw8XEA0GHAUbDhwW",
+      "model_size": "medium",
+      "final_loss": 0.010176371783018112,
+      "chamfer_distance": 0.2719307541847229,
+      "train_time_s": 10.320166110992432
+    },
+    {
+      "shape_id": "p312_BggcEh8GDAgdFgkBBAgAFhoW",
+      "model_size": "medium",
+      "final_loss": 0.016979582607746124,
+      "chamfer_distance": 0.32183921337127686,
+      "train_time_s": 10.284891843795776
+    },
+    {
+      "shape_id": "p313_EwAfEREGEx8SCBYOHAANBBgI",
+      "model_size": "medium",
+      "final_loss": 0.00932682491838932,
+      "chamfer_distance": 0.3038252592086792,
+      "train_time_s": 10.296294689178467
+    },
+    {
+      "shape_id": "p314_Fw0TEgMNCx8fBBUcFxgJCRQL",
+      "model_size": "medium",
+      "final_loss": 0.013194585219025612,
+      "chamfer_distance": 0.2061057835817337,
+      "train_time_s": 10.294214248657227
+    },
+    {
+      "shape_id": "p315_FREbDxURDBEaCwMWFxEHCxAB",
+      "model_size": "medium",
+      "final_loss": 0.004882982932031155,
+      "chamfer_distance": 0.14106783270835876,
+      "train_time_s": 10.283183813095093
+    },
+    {
+      "shape_id": "p316_Ag4WExkPBwQJGwkLAAgJEBAC",
+      "model_size": "medium",
+      "final_loss": 0.019477535039186478,
+      "chamfer_distance": 0.3487469553947449,
+      "train_time_s": 10.309331893920898
+    },
+    {
+      "shape_id": "p317_HRQeDRUaDBQfCQMdHxQCCRAK",
+      "model_size": "medium",
+      "final_loss": 0.024563124403357506,
+      "chamfer_distance": 1.0282038450241089,
+      "train_time_s": 10.26281213760376
+    },
+    {
+      "shape_id": "p319_EQ8WGxEFEx8dARwOHwAPCxEC",
+      "model_size": "medium",
+      "final_loss": 0.042601749300956726,
+      "chamfer_distance": 0.32586321234703064,
+      "train_time_s": 10.30809235572815
+    },
+    {
+      "shape_id": "p320_FAQRAAIMFxcSBhgKEQAcARAO",
+      "model_size": "medium",
+      "final_loss": 0.00787912867963314,
+      "chamfer_distance": 0.08520743995904922,
+      "train_time_s": 10.26446533203125
+    },
+    {
+      "shape_id": "p321_BA4ACBEGGx8cFw8OHAgaCgcR_BA",
+      "model_size": "medium",
+      "final_loss": 0.009691260755062103,
+      "chamfer_distance": 0.2777390480041504,
+      "train_time_s": 10.344979047775269
+    },
+    {
+      "shape_id": "p322_BA4ACBEGGz4jLCUuDA4cDBQW",
+      "model_size": "medium",
+      "final_loss": 0.022943928837776184,
+      "chamfer_distance": 0.26741233468055725,
+      "train_time_s": 10.277337074279785
+    },
+    {
+      "shape_id": "p323_HggVBhUEGx8aAgEKHggADBIf",
+      "model_size": "medium",
+      "final_loss": 0.032664041966199875,
+      "chamfer_distance": 0.3553609549999237,
+      "train_time_s": 10.341952323913574
+    },
+    {
+      "shape_id": "p324_GgARAhEaFh8SBgUOAAUEBBYb",
+      "model_size": "medium",
+      "final_loss": 0.009051334112882614,
+      "chamfer_distance": 0.23837202787399292,
+      "train_time_s": 10.295095205307007
+    },
+    {
+      "shape_id": "p325_GwAcBA4JHAQYBAgKGQAAAB4Z",
+      "model_size": "medium",
+      "final_loss": 0.009532049298286438,
+      "chamfer_distance": 0.1568317711353302,
+      "train_time_s": 10.310392141342163
+    },
+    {
+      "shape_id": "p326_HA4HDR8dDA4GCQkaHg4bCRoN_1",
+      "model_size": "medium",
+      "final_loss": 0.008514344692230225,
+      "chamfer_distance": 0.2150314897298813,
+      "train_time_s": 10.275075197219849
+    },
+    {
+      "shape_id": "p327_BggeDREGBwQFBBgGHg0PCwAd",
+      "model_size": "medium",
+      "final_loss": 0.01763729378581047,
+      "chamfer_distance": 0.08903245627880096,
+      "train_time_s": 10.341652154922485
+    },
+    {
+      "shape_id": "p329_HQ4ADBkEHgQNChQCGw0CABgX",
+      "model_size": "medium",
+      "final_loss": 0.012645727023482323,
+      "chamfer_distance": 0.2036033272743225,
+      "train_time_s": 10.296842813491821
+    },
+    {
+      "shape_id": "p330_FAQDFBkMBh8WFBMGFhUKAAQN",
+      "model_size": "medium",
+      "final_loss": 0.008610996417701244,
+      "chamfer_distance": 0.19263571500778198,
+      "train_time_s": 10.290502071380615
+    },
+    {
+      "shape_id": "p331_Ag4BBAINHBINChUKAAQAFgcX",
+      "model_size": "medium",
+      "final_loss": 0.007610146421939135,
+      "chamfer_distance": 0.16773337125778198,
+      "train_time_s": 10.283202409744263
+    },
+    {
+      "shape_id": "p333_AhQdDQMWBw4fFhQaHQ0dFwAX",
+      "model_size": "medium",
+      "final_loss": 0.005642789416015148,
+      "chamfer_distance": 0.20022769272327423,
+      "train_time_s": 10.284230470657349
+    },
+    {
+      "shape_id": "p334_FwAHBRkGDAAGAQ8BFQAbARwW",
+      "model_size": "medium",
+      "final_loss": 0.011556521989405155,
+      "chamfer_distance": 0.2988848090171814,
+      "train_time_s": 10.292721509933472
+    },
+    {
+      "shape_id": "p336_EwkTDxUSDAkSCwMVEQkPCxAC",
+      "model_size": "medium",
+      "final_loss": 0.007817401550710201,
+      "chamfer_distance": 0.1240188479423523,
+      "train_time_s": 10.327663898468018
+    },
+    {
+      "shape_id": "p337_FwQdExcNAR8WChQIFxIJABoK_LICA",
+      "model_size": "medium",
+      "final_loss": 0.009170148521661758,
+      "chamfer_distance": 0.16584163904190063,
+      "train_time_s": 10.292364358901978
+    },
+    {
+      "shape_id": "p338_FwQdExcNAR8WChQIFxIJABoK_RICA",
+      "model_size": "medium",
+      "final_loss": 0.01369562093168497,
+      "chamfer_distance": 0.22693949937820435,
+      "train_time_s": 10.290380001068115
+    },
+    {
+      "shape_id": "p339_Ag4fAB4WHQwSCxQAHwAAFxoV",
+      "model_size": "medium",
+      "final_loss": 0.010322476737201214,
+      "chamfer_distance": 0.2012273669242859,
+      "train_time_s": 10.312338829040527
+    },
+    {
+      "shape_id": "p340_HRQUFRkLDBQVEQ8MHxQIERwb",
+      "model_size": "medium",
+      "final_loss": 0.012439383193850517,
+      "chamfer_distance": 0.13737469911575317,
+      "train_time_s": 10.28827428817749
+    },
+    {
+      "shape_id": "p341_HRQcEhMADBQdFgUHHxQAFhYQ",
+      "model_size": "medium",
+      "final_loss": 0.005940994247794151,
+      "chamfer_distance": 0.23340202867984772,
+      "train_time_s": 10.343634843826294
+    },
+    {
+      "shape_id": "p342_AAgcCR83HgQaEQMRGw8GCioU",
+      "model_size": "medium",
+      "final_loss": 0.006235369481146336,
+      "chamfer_distance": 0.2075573354959488,
+      "train_time_s": 10.300941228866577
+    },
+    {
+      "shape_id": "p343_AgARBB4NBh8SBgMBFxUcBBYd",
+      "model_size": "medium",
+      "final_loss": 0.010430194437503815,
+      "chamfer_distance": 0.14066070318222046,
+      "train_time_s": 10.320766687393188
+    },
+    {
+      "shape_id": "p344_AA4UBxUcDA4VAwMbAg4IAxAM",
+      "model_size": "medium",
+      "final_loss": 0.016393065452575684,
+      "chamfer_distance": 0.23292231559753418,
+      "train_time_s": 10.314860582351685
+    },
+    {
+      "shape_id": "p345_HRQeDRUaDBQfCQMdHxQCCRAK",
+      "model_size": "medium",
+      "final_loss": 0.008776072412729263,
+      "chamfer_distance": 0.11317681521177292,
+      "train_time_s": 10.321984767913818
+    },
+    {
+      "shape_id": "p346_EwkTAhgJHg4NDQcMGgACChYQ",
+      "model_size": "medium",
+      "final_loss": 0.0054818373173475266,
+      "chamfer_distance": 0.2670905590057373,
+      "train_time_s": 10.298841953277588
+    },
+    {
+      "shape_id": "p347_FAQEBBwJCx8WEwMDExgKAAMd",
+      "model_size": "medium",
+      "final_loss": 0.007886549457907677,
+      "chamfer_distance": 0.23561033606529236,
+      "train_time_s": 10.3279550075531
+    },
+    {
+      "shape_id": "p348_Eg4VDwUMEx8cAggaFgAMChIW",
+      "model_size": "medium",
+      "final_loss": 0.009976480156183243,
+      "chamfer_distance": 0.22539401054382324,
+      "train_time_s": 10.269075155258179
+    },
+    {
+      "shape_id": "p349_GwgeCBMWGw0aBg0GHggNDhwU_1",
+      "model_size": "medium",
+      "final_loss": 0.007408331148326397,
+      "chamfer_distance": 0.112507663667202,
+      "train_time_s": 10.316888093948364
+    },
+    {
+      "shape_id": "p349_GwgeCBMWGw0aBg0GHggNDhwU_2",
+      "model_size": "medium",
+      "final_loss": 0.008151544257998466,
+      "chamfer_distance": 0.13578107953071594,
+      "train_time_s": 10.309608221054077
+    },
+    {
+      "shape_id": "p351_HQQaCA4NGggeAA4GHwQGDBgd",
+      "model_size": "medium",
+      "final_loss": 0.006734917405992746,
+      "chamfer_distance": 0.12093222886323929,
+      "train_time_s": 10.325387239456177
+    },
+    {
+      "shape_id": "p352_FggEAAoWGxcSHwAGBAAUAxwO",
+      "model_size": "medium",
+      "final_loss": 0.005273805465549231,
+      "chamfer_distance": 0.1886429637670517,
+      "train_time_s": 10.2738618850708
+    },
+    {
+      "shape_id": "p353_EggcChUaBh8aCw0KABUMDBsT_RICA",
+      "model_size": "medium",
+      "final_loss": 0.008920231834053993,
+      "chamfer_distance": 0.22863298654556274,
+      "train_time_s": 10.34838604927063
+    },
+    {
+      "shape_id": "p354_ERMIAA4aCAASFxwOExMUBBQK",
+      "model_size": "medium",
+      "final_loss": 0.008460693061351776,
+      "chamfer_distance": 0.12055206298828125,
+      "train_time_s": 10.317939043045044
+    },
+    {
+      "shape_id": "p355_EhMXFQ4aFxURFwMbEBMLERcK",
+      "model_size": "medium",
+      "final_loss": 0.010528305545449257,
+      "chamfer_distance": 0.16896572709083557,
+      "train_time_s": 10.323015928268433
+    },
+    {
+      "shape_id": "p356_EwAcCAYNCB8SCw8ZFxsNBBsR",
+      "model_size": "medium",
+      "final_loss": 0.017422109842300415,
+      "chamfer_distance": 0.27417421340942383,
+      "train_time_s": 10.303274869918823
+    },
+    {
+      "shape_id": "p357_EhMTDxQHHB8BBAgLHQ8MFxQW",
+      "model_size": "medium",
+      "final_loss": 0.012186919339001179,
+      "chamfer_distance": 0.19318391382694244,
+      "train_time_s": 10.247846603393555
+    },
+    {
+      "shape_id": "p358_HAQaDxgNABMNAA4BGgQcFxkd",
+      "model_size": "medium",
+      "final_loss": 0.007515601813793182,
+      "chamfer_distance": 0.17526644468307495,
+      "train_time_s": 10.324742317199707
+    },
+    {
+      "shape_id": "p359_ExMXGA4aFxgQFwMWERMLHBYK",
+      "model_size": "medium",
+      "final_loss": 0.0067295534536242485,
+      "chamfer_distance": 0.21071673929691315,
+      "train_time_s": 10.27610468864441
+    },
+    {
+      "shape_id": "p360_AA4RCR8GDA4QDQkBAg4NDRoW_1",
+      "model_size": "medium",
+      "final_loss": 0.01230855192989111,
+      "chamfer_distance": 0.32930684089660645,
+      "train_time_s": 10.285334587097168
+    },
+    {
+      "shape_id": "p361_HgABERkGAQoaGwccAggAFh4R_RMCA",
+      "model_size": "medium",
+      "final_loss": 0.005242074839770794,
+      "chamfer_distance": 0.18900024890899658,
+      "train_time_s": 10.27254843711853
+    },
+    {
+      "shape_id": "p362_HgABERkGAQoaGwccAggAFh4R_LMCA",
+      "model_size": "medium",
+      "final_loss": 0.005716677755117416,
+      "chamfer_distance": 0.20447611808776855,
+      "train_time_s": 10.324352264404297
+    },
+    {
+      "shape_id": "p363_BhQRCh8eGwINEAUEHRcHBgMN",
+      "model_size": "medium",
+      "final_loss": 0.009724793955683708,
+      "chamfer_distance": 0.25165361166000366,
+      "train_time_s": 10.279252290725708
+    },
+    {
+      "shape_id": "p364_FQYVEg4PFRIWAgEcFwYJFhAf",
+      "model_size": "medium",
+      "final_loss": 0.00847463496029377,
+      "chamfer_distance": 0.13770458102226257,
+      "train_time_s": 10.30375051498413
+    },
+    {
+      "shape_id": "p365_FxQGHwUcFRQHAhMbFRQaAgAM",
+      "model_size": "medium",
+      "final_loss": 0.016546055674552917,
+      "chamfer_distance": 0.17435884475708008,
+      "train_time_s": 10.284260511398315
+    },
+    {
+      "shape_id": "p366_EQ8RAAkWHAISHAcBEQAXBBsb",
+      "model_size": "medium",
+      "final_loss": 0.006926697213202715,
+      "chamfer_distance": 0.23643308877944946,
+      "train_time_s": 10.353214740753174
+    },
+    {
+      "shape_id": "p367_Eg0TDxMHDA0SCwUAEA0PCxYX",
+      "model_size": "medium",
+      "final_loss": 0.02338876575231552,
+      "chamfer_distance": 0.2385326623916626,
+      "train_time_s": 10.300354719161987
+    },
+    {
+      "shape_id": "p368_HA4CBAMWHREWFgoAAgQdCRoI_1",
+      "model_size": "medium",
+      "final_loss": 0.007238050457090139,
+      "chamfer_distance": 0.2588386535644531,
+      "train_time_s": 10.329835653305054
+    },
+    {
+      "shape_id": "p368_HA4CBAMWHREWFgoAAgQdCRoI_2",
+      "model_size": "medium",
+      "final_loss": 0.006226114928722382,
+      "chamfer_distance": 0.26986533403396606,
+      "train_time_s": 10.293199062347412
+    },
+    {
+      "shape_id": "p369_GAAHEgMEFxMNBBMcAQ0LFx0Z",
+      "model_size": "medium",
+      "final_loss": 0.00875803641974926,
+      "chamfer_distance": 0.22051656246185303,
+      "train_time_s": 10.33798360824585
+    },
+    {
+      "shape_id": "p370_HxcXEx4NCx8FABQBFxgBExAK",
+      "model_size": "medium",
+      "final_loss": 0.009013999253511429,
+      "chamfer_distance": 0.2678195834159851,
+      "train_time_s": 10.285233497619629
+    },
+    {
+      "shape_id": "p371_HQAICBwEFx8SHw8DHgQDBA8R_asib",
+      "model_size": "medium",
+      "final_loss": 0.004541181959211826,
+      "chamfer_distance": 0.18409571051597595,
+      "train_time_s": 10.320351362228394
+    },
+    {
+      "shape_id": "p372_EwkXExkQDAkWFw8XEQkLFxwA",
+      "model_size": "medium",
+      "final_loss": 0.014134950004518032,
+      "chamfer_distance": 0.2042519748210907,
+      "train_time_s": 10.294237852096558
+    },
+    {
+      "shape_id": "p373_EwAWAB4WEwUSCwUOFgAABhQc",
+      "model_size": "medium",
+      "final_loss": 0.007228441536426544,
+      "chamfer_distance": 0.22661392390727997,
+      "train_time_s": 10.33390212059021
+    },
+    {
+      "shape_id": "p374_EwkXDxEeGwQBGw4KHAAYDBAK",
+      "model_size": "medium",
+      "final_loss": 0.007489985786378384,
+      "chamfer_distance": 0.11428104341030121,
+      "train_time_s": 10.331843137741089
+    },
+    {
+      "shape_id": "p375_AwIaBB4DFw0NBg4KHAoLCQYb_1",
+      "model_size": "medium",
+      "final_loss": 0.010543017648160458,
+      "chamfer_distance": 0.22962915897369385,
+      "train_time_s": 10.31006646156311
+    },
+    {
+      "shape_id": "p375_AwIaBB4DFw0NBg4KHAoLCQYb_2sib",
+      "model_size": "medium",
+      "final_loss": 0.01707559823989868,
+      "chamfer_distance": 0.23813679814338684,
+      "train_time_s": 10.37042784690857
+    },
+    {
+      "shape_id": "p376_AA0TDwQBBAQSEBgDEw8aDAMd_RMCA_2",
+      "model_size": "medium",
+      "final_loss": 0.005464026238769293,
+      "chamfer_distance": 0.16973456740379333,
+      "train_time_s": 10.313621520996094
+    },
+    {
+      "shape_id": "p376_AA0TDwQBBAQSEBgDEw8aDAMd_RMCA_1",
+      "model_size": "medium",
+      "final_loss": 0.005447822622954845,
+      "chamfer_distance": 0.11930372565984726,
+      "train_time_s": 10.351635217666626
+    },
+    {
+      "shape_id": "p376_AA0TDwQBBAQSEBgDEw8aDAMd_RMCA_3",
+      "model_size": "medium",
+      "final_loss": 0.007712983060628176,
+      "chamfer_distance": 0.2696046233177185,
+      "train_time_s": 10.269692659378052
+    },
+    {
+      "shape_id": "p377_AA0TDwQBBAQSEBgDEw8aDAMd_LMCA",
+      "model_size": "medium",
+      "final_loss": 0.009537958540022373,
+      "chamfer_distance": 0.22258159518241882,
+      "train_time_s": 10.30298113822937
+    },
+    {
+      "shape_id": "p378_HA4ABB4SHR8cFwMBCA4CCgcd_LICA",
+      "model_size": "medium",
+      "final_loss": 0.008210884407162666,
+      "chamfer_distance": 0.24438336491584778,
+      "train_time_s": 10.29335331916809
+    },
+    {
+      "shape_id": "p379_EwAfEREGEx8SCBYOHAANBBgI_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.025700397789478302,
+      "chamfer_distance": 0.23199887573719025,
+      "train_time_s": 10.31518840789795
+    },
+    {
+      "shape_id": "p379_EwAfEREGEx8SCBYOHAANBBgI_LICA_3",
+      "model_size": "medium",
+      "final_loss": 0.009019050747156143,
+      "chamfer_distance": 0.20753931999206543,
+      "train_time_s": 10.281643867492676
+    },
+    {
+      "shape_id": "p379_EwAfEREGEx8SCBYOHAANBBgI_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.012302769348025322,
+      "chamfer_distance": 0.156084805727005,
+      "train_time_s": 10.321728467941284
+    },
+    {
+      "shape_id": "p380_FwgeDRkHCB8aCQoGHRsJDBkU_RICA",
+      "model_size": "medium",
+      "final_loss": 0.017489980906248093,
+      "chamfer_distance": 0.18742333352565765,
+      "train_time_s": 10.309496879577637
+    },
+    {
+      "shape_id": "p381_EQ0eBBcaHR8fCQMIAA4PCRkd",
+      "model_size": "medium",
+      "final_loss": 0.010192105546593666,
+      "chamfer_distance": 0.2867606282234192,
+      "train_time_s": 10.34373927116394
+    },
+    {
+      "shape_id": "p382_GAALDgoWExgcHw4OCw4UDRQB",
+      "model_size": "medium",
+      "final_loss": 0.008015753701329231,
+      "chamfer_distance": 0.17900396883487701,
+      "train_time_s": 10.329612731933594
+    },
+    {
+      "shape_id": "p383_HQ4ABB4HDA4BAAgAHw4cABsX_1",
+      "model_size": "medium",
+      "final_loss": 0.011830896139144897,
+      "chamfer_distance": 0.15859688818454742,
+      "train_time_s": 10.36566686630249
+    },
+    {
+      "shape_id": "p383_HQ4ABB4HDA4BAAgAHw4cABsX_2",
+      "model_size": "medium",
+      "final_loss": 0.013607680797576904,
+      "chamfer_distance": 0.25925666093826294,
+      "train_time_s": 10.334656000137329
+    },
+    {
+      "shape_id": "p383_HQ4ABB4HDA4BAAgAHw4cABsX_3",
+      "model_size": "medium",
+      "final_loss": 0.00868415366858244,
+      "chamfer_distance": 0.25250667333602905,
+      "train_time_s": 10.350052833557129
+    },
+    {
+      "shape_id": "p383_HQ4ABB4HDA4BAAgAHw4cABsX_4",
+      "model_size": "medium",
+      "final_loss": 0.010384955443441868,
+      "chamfer_distance": 0.30246537923812866,
+      "train_time_s": 10.293845415115356
+    },
+    {
+      "shape_id": "p384_FAQeBAQaExsNAAoKBhMPHxEd_b",
+      "model_size": "medium",
+      "final_loss": 0.012282395735383034,
+      "chamfer_distance": 0.10498904436826706,
+      "train_time_s": 10.331080675125122
+    },
+    {
+      "shape_id": "p385_FAQeFBMJDAQfEAUOFgQCEBYZ",
+      "model_size": "medium",
+      "final_loss": 0.006326248869299889,
+      "chamfer_distance": 0.22381678223609924,
+      "train_time_s": 10.278139352798462
+    },
+    {
+      "shape_id": "p386_BAQLEgMBFxMNAB8cAQgLFwEd",
+      "model_size": "medium",
+      "final_loss": 0.008555639535188675,
+      "chamfer_distance": 0.2348654568195343,
+      "train_time_s": 10.294337272644043
+    },
+    {
+      "shape_id": "p387_AxQWAB4WBwUSCxUaFgAAFgAc",
+      "model_size": "medium",
+      "final_loss": 0.009667178615927696,
+      "chamfer_distance": 0.1523265838623047,
+      "train_time_s": 10.309453010559082
+    },
+    {
+      "shape_id": "p388_Ag4BEhUcDA4AFgMbAA4dFhAM",
+      "model_size": "medium",
+      "final_loss": 0.007861265912652016,
+      "chamfer_distance": 0.18259337544441223,
+      "train_time_s": 10.294945478439331
+    },
+    {
+      "shape_id": "p389_HQAAFRkWExMHDAsOABUHCBQK_1",
+      "model_size": "medium",
+      "final_loss": 0.009153665974736214,
+      "chamfer_distance": 0.12919065356254578,
+      "train_time_s": 10.326759815216064
+    },
+    {
+      "shape_id": "p389_HQAAFRkWExMHDAsOABUHCBQK_2",
+      "model_size": "medium",
+      "final_loss": 0.028643371537327766,
+      "chamfer_distance": 0.37551790475845337,
+      "train_time_s": 10.307108640670776
+    },
+    {
+      "shape_id": "p390_FQ0QEwkLGhUNCQQdCwIGERAU_1",
+      "model_size": "medium",
+      "final_loss": 0.011574020609259605,
+      "chamfer_distance": 0.17119227349758148,
+      "train_time_s": 10.341392517089844
+    },
+    {
+      "shape_id": "p390_FQ0QEwkLGhUNCQQdCwIGERAU_2sib",
+      "model_size": "medium",
+      "final_loss": 0.0088758934289217,
+      "chamfer_distance": 0.09984812140464783,
+      "train_time_s": 10.282514572143555
+    },
+    {
+      "shape_id": "p390_FQ0QEwkLGhUNCQQdCwIGERAU_3",
+      "model_size": "medium",
+      "final_loss": 0.005389995872974396,
+      "chamfer_distance": 0.22521372139453888,
+      "train_time_s": 10.315640211105347
+    },
+    {
+      "shape_id": "p391_GgAcPhQdLQIbAAgKDAAAOhEN",
+      "model_size": "medium",
+      "final_loss": 0.009944629855453968,
+      "chamfer_distance": 0.12869828939437866,
+      "train_time_s": 10.2764253616333
+    },
+    {
+      "shape_id": "p392_FBQGEwUNHh8GERQaFw0KEAEK_2",
+      "model_size": "medium",
+      "final_loss": 0.00860564038157463,
+      "chamfer_distance": 0.2748696208000183,
+      "train_time_s": 10.32198691368103
+    },
+    {
+      "shape_id": "p392_FBQGEwUNHh8GERQaFw0KEAEK_1",
+      "model_size": "medium",
+      "final_loss": 0.011539371684193611,
+      "chamfer_distance": 0.15725134313106537,
+      "train_time_s": 10.293207168579102
+    },
+    {
+      "shape_id": "p393_HQgeDRUcDAgfCQMbHwgCCRAM",
+      "model_size": "medium",
+      "final_loss": 0.005878468044102192,
+      "chamfer_distance": 0.2724319100379944,
+      "train_time_s": 10.314841747283936
+    },
+    {
+      "shape_id": "p394_Eg4EAAkWHRcSHAQABAAXBxoO",
+      "model_size": "medium",
+      "final_loss": 0.005799544509500265,
+      "chamfer_distance": 0.23703420162200928,
+      "train_time_s": 10.309733152389526
+    },
+    {
+      "shape_id": "p395_BAkdDBEbAQQHGw4AHwAdFhAM_1",
+      "model_size": "medium",
+      "final_loss": 0.0059987520799040794,
+      "chamfer_distance": 0.10697972774505615,
+      "train_time_s": 10.328785419464111
+    },
+    {
+      "shape_id": "p395_BAkdDBEbAQQHGw4AHwAdFhAM_2",
+      "model_size": "medium",
+      "final_loss": 0.009725830517709255,
+      "chamfer_distance": 0.2453080266714096,
+      "train_time_s": 10.286139249801636
+    },
+    {
+      "shape_id": "p396_EQIRDgIMGw8cGwUMHRMKDBsX",
+      "model_size": "medium",
+      "final_loss": 0.009727055206894875,
+      "chamfer_distance": 0.2750609517097473,
+      "train_time_s": 10.327089309692383
+    },
+    {
+      "shape_id": "p397_GBQVAAMWBwYSFg4aFQAdDQAf",
+      "model_size": "medium",
+      "final_loss": 0.006614431738853455,
+      "chamfer_distance": 0.17778027057647705,
+      "train_time_s": 10.289074182510376
+    },
+    {
+      "shape_id": "p398_AAgRAAIMLQYGDAEBHQ8QDBYZ_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.010297760367393494,
+      "chamfer_distance": 0.21352806687355042,
+      "train_time_s": 10.327484130859375
+    },
+    {
+      "shape_id": "p398_AAgRAAIMLQYGDAEBHQ8QDBYZ_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.013506609946489334,
+      "chamfer_distance": 0.24331673979759216,
+      "train_time_s": 10.285781621932983
+    },
+    {
+      "shape_id": "p399_AAgRAAIMLQYGDAEBHQ8QDBYZ_RICA_3",
+      "model_size": "medium",
+      "final_loss": 0.03076906129717827,
+      "chamfer_distance": 0.42606326937675476,
+      "train_time_s": 10.288366079330444
+    },
+    {
+      "shape_id": "p399_AAgRAAIMLQYGDAEBHQ8QDBYZ_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.01369284838438034,
+      "chamfer_distance": 0.2894297242164612,
+      "train_time_s": 10.32602572441101
+    },
+    {
+      "shape_id": "p399_AAgRAAIMLQYGDAEBHQ8QDBYZ_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.014706701040267944,
+      "chamfer_distance": 0.26694798469543457,
+      "train_time_s": 10.332212686538696
+    },
+    {
+      "shape_id": "p400_AgAWDgYJHA4FDAUREwUBExQW",
+      "model_size": "medium",
+      "final_loss": 0.008282491937279701,
+      "chamfer_distance": 0.1577918529510498,
+      "train_time_s": 10.390270709991455
+    },
+    {
+      "shape_id": "p401_GwAAAhgNAB8SFwUHFxMFBAcb_b",
+      "model_size": "medium",
+      "final_loss": 0.007096099201589823,
+      "chamfer_distance": 0.16012011468410492,
+      "train_time_s": 10.341573476791382
+    },
+    {
+      "shape_id": "p402_GA4BFRUcBg0WFxgAARULEQEU_BA",
+      "model_size": "medium",
+      "final_loss": 0.01970333606004715,
+      "chamfer_distance": 0.31456151604652405,
+      "train_time_s": 10.384105682373047
+    },
+    {
+      "shape_id": "p403_BAkXCB4cCB8bAA8BBhsaDRAR",
+      "model_size": "medium",
+      "final_loss": 0.011537916958332062,
+      "chamfer_distance": 0.29714667797088623,
+      "train_time_s": 10.359893083572388
+    },
+    {
+      "shape_id": "p404_EgAAAxUSExUNBBQNFxsPERcZ_1",
+      "model_size": "medium",
+      "final_loss": 0.006895581725984812,
+      "chamfer_distance": 0.31263667345046997,
+      "train_time_s": 10.406479597091675
+    },
+    {
+      "shape_id": "p404_EgAAAxUSExUNBBQNFxsPERcZ_2",
+      "model_size": "medium",
+      "final_loss": 0.012104259803891182,
+      "chamfer_distance": 0.31510382890701294,
+      "train_time_s": 10.356837272644043
+    },
+    {
+      "shape_id": "p405_HRQABRERDBQBAQcWHxQcARQB",
+      "model_size": "medium",
+      "final_loss": 0.00915935542434454,
+      "chamfer_distance": 0.2971757650375366,
+      "train_time_s": 10.403078079223633
+    },
+    {
+      "shape_id": "p406_FwgeDRkHCB8aCQoGHRsJDBkU_LICA",
+      "model_size": "medium",
+      "final_loss": 0.006843137554824352,
+      "chamfer_distance": 0.12848833203315735,
+      "train_time_s": 10.353744983673096
+    },
+    {
+      "shape_id": "p407_FxQbDRwNBh8GDAoDFxUJEBwU",
+      "model_size": "medium",
+      "final_loss": 0.007800913881510496,
+      "chamfer_distance": 0.2227686494588852,
+      "train_time_s": 10.383002996444702
+    },
+    {
+      "shape_id": "p408_FwABEhUaDAAAFgMdFQAdFhAK",
+      "model_size": "medium",
+      "final_loss": 0.00882120430469513,
+      "chamfer_distance": 0.16383348405361176,
+      "train_time_s": 10.351693868637085
+    },
+    {
+      "shape_id": "p409_AggGEhMAExMXGw8bAQIGBAcc",
+      "model_size": "medium",
+      "final_loss": 0.010424021631479263,
+      "chamfer_distance": 0.29080161452293396,
+      "train_time_s": 10.369722843170166
+    },
+    {
+      "shape_id": "p410_EwAAExkHDAABFw8AEQAcFxwX",
+      "model_size": "medium",
+      "final_loss": 0.009311819449067116,
+      "chamfer_distance": 0.19091087579727173,
+      "train_time_s": 10.341264963150024
+    },
+    {
+      "shape_id": "p411_HBQcAAIMGx8GCwcdFggCEBsZ_LICA",
+      "model_size": "medium",
+      "final_loss": 0.006565256044268608,
+      "chamfer_distance": 0.1306142508983612,
+      "train_time_s": 10.386631965637207
+    },
+    {
+      "shape_id": "p412_GAAeDREdFxMNBAoDExQLFx0Z",
+      "model_size": "medium",
+      "final_loss": 0.010615106672048569,
+      "chamfer_distance": 0.21634089946746826,
+      "train_time_s": 10.366576433181763
+    },
+    {
+      "shape_id": "p413_GgAREAUBFxMNBAUeBwgLFx8Z_RICA",
+      "model_size": "medium",
+      "final_loss": 0.010274008847773075,
+      "chamfer_distance": 0.20613253116607666,
+      "train_time_s": 10.400549173355103
+    },
+    {
+      "shape_id": "p414_GgAREAUBFxMNBAUeBwgLFx8Z_LICA",
+      "model_size": "medium",
+      "final_loss": 0.012462502345442772,
+      "chamfer_distance": 0.18159344792366028,
+      "train_time_s": 10.350995779037476
+    },
+    {
+      "shape_id": "p415_FhMTBh4BFxMWGxQOFQ8HAAcd_RICA",
+      "model_size": "medium",
+      "final_loss": 0.0075765494257211685,
+      "chamfer_distance": 0.23154371976852417,
+      "train_time_s": 10.36904239654541
+    },
+    {
+      "shape_id": "p416_FhMTBh4BFxMWGxQOFQ8HAAcd_LICA",
+      "model_size": "medium",
+      "final_loss": 0.0052559287287294865,
+      "chamfer_distance": 0.2843157649040222,
+      "train_time_s": 10.409096240997314
+    },
+    {
+      "shape_id": "p417_EgAeBRkGDAAfAQ8BEAACARwW",
+      "model_size": "medium",
+      "final_loss": 0.008542599156498909,
+      "chamfer_distance": 0.1299227625131607,
+      "train_time_s": 10.375952005386353
+    },
+    {
+      "shape_id": "p418_HRQVBBwBDBQUAAoGHxQJABkR",
+      "model_size": "medium",
+      "final_loss": 0.005993753671646118,
+      "chamfer_distance": 0.15631285309791565,
+      "train_time_s": 10.41025161743164
+    },
+    {
+      "shape_id": "p419_HAAcDxkWEw8dDAoOHA8HCRQW",
+      "model_size": "medium",
+      "final_loss": 0.01442754827439785,
+      "chamfer_distance": 0.22576205432415009,
+      "train_time_s": 10.361426830291748
+    },
+    {
+      "shape_id": "p420_Bg4cPhUaHgAQDRgAHD4LFxkZ_a",
+      "model_size": "medium",
+      "final_loss": 0.017378224059939384,
+      "chamfer_distance": 0.25654518604278564,
+      "train_time_s": 10.421149492263794
+    },
+    {
+      "shape_id": "p421_FwQADBEGGwQBGwMdHwAADBAK_asib",
+      "model_size": "medium",
+      "final_loss": 0.012977436184883118,
+      "chamfer_distance": 0.13284087181091309,
+      "train_time_s": 10.390966653823853
+    },
+    {
+      "shape_id": "p422_HQ4eDRUaDA4fCQMdHw4CCRAK",
+      "model_size": "medium",
+      "final_loss": 0.004917331971228123,
+      "chamfer_distance": 0.1363045573234558,
+      "train_time_s": 10.405773162841797
+    },
+    {
+      "shape_id": "p423_Eg4HExQBHB8cEBQLGw8MCgAK",
+      "model_size": "medium",
+      "final_loss": 0.011519397608935833,
+      "chamfer_distance": 0.17502371966838837,
+      "train_time_s": 10.40328049659729
+    },
+    {
+      "shape_id": "p424_FBQUDgUaDBQVChMdFhQICgAK",
+      "model_size": "medium",
+      "final_loss": 0.012648152187466621,
+      "chamfer_distance": 0.3582441210746765,
+      "train_time_s": 10.417844772338867
+    },
+    {
+      "shape_id": "p425_FwQbEhUaDAQaFgMdFQQHFhAK",
+      "model_size": "medium",
+      "final_loss": 0.01982552371919155,
+      "chamfer_distance": 0.2878817021846771,
+      "train_time_s": 10.375860929489136
+    },
+    {
+      "shape_id": "p426_Eg4EBAQWHRcWEQQABAQaBxoO_1",
+      "model_size": "medium",
+      "final_loss": 0.016756173223257065,
+      "chamfer_distance": 0.4445960819721222,
+      "train_time_s": 10.383759260177612
+    },
+    {
+      "shape_id": "p427_FxMXFRUGFxMNFwMbFw8LFxIK",
+      "model_size": "medium",
+      "final_loss": 0.00977627094835043,
+      "chamfer_distance": 0.10862195491790771,
+      "train_time_s": 10.359298944473267
+    },
+    {
+      "shape_id": "p429_HBQIGxkWBxsJDAoaCBsHCQAC",
+      "model_size": "medium",
+      "final_loss": 0.01215299405157566,
+      "chamfer_distance": 0.09399008750915527,
+      "train_time_s": 10.39417052268982
+    },
+    {
+      "shape_id": "p430_AwAeCA4JHggABAoGAQACDAYZ",
+      "model_size": "medium",
+      "final_loss": 0.003705612849444151,
+      "chamfer_distance": 0.21370644867420197,
+      "train_time_s": 10.374727487564087
+    },
+    {
+      "shape_id": "p431_BBIbFR8bDBIaEQkcBhIHERoL_1",
+      "model_size": "medium",
+      "final_loss": 0.013251333497464657,
+      "chamfer_distance": 0.1401142030954361,
+      "train_time_s": 10.38654112815857
+    },
+    {
+      "shape_id": "p431_BBIbFR8bDBIaEQkcBhIHERoL_2",
+      "model_size": "medium",
+      "final_loss": 0.012608836404979229,
+      "chamfer_distance": 0.3215685486793518,
+      "train_time_s": 10.393161535263062
+    },
+    {
+      "shape_id": "p432_BgQcBAQSDAQdABIVBAQAAAEC",
+      "model_size": "medium",
+      "final_loss": 0.009333347901701927,
+      "chamfer_distance": 0.08877255022525787,
+      "train_time_s": 10.371800661087036
+    },
+    {
+      "shape_id": "p433_HQQAAhEMHR8WFwUOFg4DAAcb_1",
+      "model_size": "medium",
+      "final_loss": 0.012114839628338814,
+      "chamfer_distance": 0.09072551131248474,
+      "train_time_s": 10.362604141235352
+    },
+    {
+      "shape_id": "p434_GgAREAUNHw4GARgOERAbABgX_1a",
+      "model_size": "medium",
+      "final_loss": 0.013656247407197952,
+      "chamfer_distance": 0.3110312819480896,
+      "train_time_s": 10.365247964859009
+    },
+    {
+      "shape_id": "p434_GgAREAUNHw4GARgOERAbABgX_2",
+      "model_size": "medium",
+      "final_loss": 0.012573904357850552,
+      "chamfer_distance": 0.24021124839782715,
+      "train_time_s": 10.405653238296509
+    },
+    {
+      "shape_id": "p435_FAQeCAQaHRsNAAoGBhMBHxEd",
+      "model_size": "medium",
+      "final_loss": 0.024816717952489853,
+      "chamfer_distance": 0.3597951829433441,
+      "train_time_s": 10.361446619033813
+    },
+    {
+      "shape_id": "p436_FwQeBBIJABUNAAoKEAAcERId",
+      "model_size": "medium",
+      "final_loss": 0.009435511194169521,
+      "chamfer_distance": 0.19238081574440002,
+      "train_time_s": 10.431018590927124
+    },
+    {
+      "shape_id": "p437_FAQQDh4bDAQRCggcFgQMChsL",
+      "model_size": "medium",
+      "final_loss": 0.008754640817642212,
+      "chamfer_distance": 0.13401930034160614,
+      "train_time_s": 10.369300842285156
+    },
+    {
+      "shape_id": "p438_AggQAAUQDAgRBBMXAAgMBAAA_1",
+      "model_size": "medium",
+      "final_loss": 0.01027631014585495,
+      "chamfer_distance": 0.11100044846534729,
+      "train_time_s": 10.405472755432129
+    },
+    {
+      "shape_id": "p438_AggQAAUQDAgRBBMXAAgMBAAA_2",
+      "model_size": "medium",
+      "final_loss": 0.021989386528730392,
+      "chamfer_distance": 0.3656616508960724,
+      "train_time_s": 10.366135120391846
+    },
+    {
+      "shape_id": "p439_HwYbBAIWFQgWFwkIGwQcChIR_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.010737817734479904,
+      "chamfer_distance": 0.1792425662279129,
+      "train_time_s": 10.394016742706299
+    },
+    {
+      "shape_id": "p439_HwYbBAIWFQgWFwkIGwQcChIR_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.03978300839662552,
+      "chamfer_distance": 0.4313357472419739,
+      "train_time_s": 10.355486392974854
+    },
+    {
+      "shape_id": "p440_HwYbBAIWFQgWFwkIGwQcChIR_LICA",
+      "model_size": "medium",
+      "final_loss": 0.01623411476612091,
+      "chamfer_distance": 0.48105084896087646,
+      "train_time_s": 10.385434627532959
+    },
+    {
+      "shape_id": "p441_AgQHEhUWFxQAABQKBxILFxAN_1",
+      "model_size": "medium",
+      "final_loss": 0.010463015176355839,
+      "chamfer_distance": 0.09406305104494095,
+      "train_time_s": 10.378048658370972
+    },
+    {
+      "shape_id": "p442_EhMHDx4NAB8BEAgBFxMMFwAW_RICA",
+      "model_size": "medium",
+      "final_loss": 0.010043915361166,
+      "chamfer_distance": 0.18612459301948547,
+      "train_time_s": 10.400821447372437
+    },
+    {
+      "shape_id": "p443_FQgRCRUGEAQBAgMdDAgNDRAW_1sib",
+      "model_size": "medium",
+      "final_loss": 0.00981261394917965,
+      "chamfer_distance": 0.31670260429382324,
+      "train_time_s": 10.381043434143066
+    },
+    {
+      "shape_id": "p444_GBQVFBUGHRUHABgaFRQLCxoM_1",
+      "model_size": "medium",
+      "final_loss": 0.008723998442292213,
+      "chamfer_distance": 0.15861153602600098,
+      "train_time_s": 10.389579057693481
+    },
+    {
+      "shape_id": "p444_GBQVFBUGHRUHABgaFRQLCxoM_2",
+      "model_size": "medium",
+      "final_loss": 0.014462729915976524,
+      "chamfer_distance": 0.22590796649456024,
+      "train_time_s": 10.36520791053772
+    },
+    {
+      "shape_id": "p446_Ag4WExkPBwQJGwkLAAgJEBAC_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.008681241422891617,
+      "chamfer_distance": 0.22936831414699554,
+      "train_time_s": 10.406630277633667
+    },
+    {
+      "shape_id": "p446_Ag4WExkPBwQJGwkLAAgJEBAC_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.00971329864114523,
+      "chamfer_distance": 0.18571379780769348,
+      "train_time_s": 10.346803903579712
+    },
+    {
+      "shape_id": "p447_GBQfAxUaBh8GCAQKABUGEBga_4",
+      "model_size": "medium",
+      "final_loss": 0.009932161308825016,
+      "chamfer_distance": 0.19320306181907654,
+      "train_time_s": 10.409852504730225
+    },
+    {
+      "shape_id": "p447_GBQfAxUaBh8GCAQKABUGEBga_3",
+      "model_size": "medium",
+      "final_loss": 0.010184789076447487,
+      "chamfer_distance": 0.17714962363243103,
+      "train_time_s": 10.350711107254028
+    },
+    {
+      "shape_id": "p447_GBQfAxUaBh8GCAQKABUGEBga_1sib",
+      "model_size": "medium",
+      "final_loss": 0.01148349791765213,
+      "chamfer_distance": 0.19781529903411865,
+      "train_time_s": 10.38361382484436
+    },
+    {
+      "shape_id": "p448_Ew0TFBQNDA0SEAIKEQ0PEBEd_b",
+      "model_size": "medium",
+      "final_loss": 0.012481674551963806,
+      "chamfer_distance": 0.23898044228553772,
+      "train_time_s": 10.418312788009644
+    },
+    {
+      "shape_id": "p449_AxUHAhsRDBUGBg0WARUbBh4B",
+      "model_size": "medium",
+      "final_loss": 0.008819586597383022,
+      "chamfer_distance": 0.25606462359428406,
+      "train_time_s": 10.361146688461304
+    },
+    {
+      "shape_id": "p450_FAQtDhwBBAQaFwcRFz4BCRwO",
+      "model_size": "medium",
+      "final_loss": 0.012750407680869102,
+      "chamfer_distance": 0.19078335165977478,
+      "train_time_s": 10.421334743499756
+    },
+    {
+      "shape_id": "p451_FwQADBEGGwQBGwMdHwAADBAK_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.008684292435646057,
+      "chamfer_distance": 0.2694531977176666,
+      "train_time_s": 10.36959195137024
+    },
+    {
+      "shape_id": "p451_FwQADBEGGwQBGwMdHwAADBAK_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.017123345285654068,
+      "chamfer_distance": 0.2876666784286499,
+      "train_time_s": 10.400665044784546
+    },
+    {
+      "shape_id": "p452_EQITDAAHAAANBgcCAg4cBBQb_1",
+      "model_size": "medium",
+      "final_loss": 0.008033178746700287,
+      "chamfer_distance": 0.23391374945640564,
+      "train_time_s": 10.359362363815308
+    },
+    {
+      "shape_id": "p452_EQITDAAHAAANBgcCAg4cBBQb_2",
+      "model_size": "medium",
+      "final_loss": 0.02431698516011238,
+      "chamfer_distance": 0.32124343514442444,
+      "train_time_s": 10.412856101989746
+    },
+    {
+      "shape_id": "p453_FAQQDh4GFxcaCQoKDAQMChsW",
+      "model_size": "medium",
+      "final_loss": 0.008660896681249142,
+      "chamfer_distance": 0.1583358198404312,
+      "train_time_s": 10.37949275970459
+    },
+    {
+      "shape_id": "p454_BwQeDRkGFQQBGwMDHggAAhAK_1",
+      "model_size": "medium",
+      "final_loss": 0.014984996989369392,
+      "chamfer_distance": 0.18411406874656677,
+      "train_time_s": 10.422314167022705
+    },
+    {
+      "shape_id": "p455_HQAACB8cBggNBBQGHRUaDBgZ_1",
+      "model_size": "medium",
+      "final_loss": 0.00945914164185524,
+      "chamfer_distance": 0.2514803409576416,
+      "train_time_s": 10.373825311660767
+    },
+    {
+      "shape_id": "p456_BhQbDRwNDBQaCQoKBBQHCRkd_1a",
+      "model_size": "medium",
+      "final_loss": 0.01048286259174347,
+      "chamfer_distance": 0.15034037828445435,
+      "train_time_s": 10.447292566299438
+    },
+    {
+      "shape_id": "p457_BA4ADxERDA4BCwcWBg4cCxQB",
+      "model_size": "medium",
+      "final_loss": 0.011070089414715767,
+      "chamfer_distance": 0.13313379883766174,
+      "train_time_s": 10.396305322647095
+    },
+    {
+      "shape_id": "p458_HQ4cDxUcDA4dCwMbHw4ACxAM",
+      "model_size": "medium",
+      "final_loss": 0.010195862501859665,
+      "chamfer_distance": 0.1665414571762085,
+      "train_time_s": 10.405005693435669
+    },
+    {
+      "shape_id": "p459_FBQRExUcDBQQFwMbFhQNFxAM",
+      "model_size": "medium",
+      "final_loss": 0.00609566830098629,
+      "chamfer_distance": 0.17691907286643982,
+      "train_time_s": 10.384674310684204
+    },
+    {
+      "shape_id": "p460_CgQcBhUaDAQdAgMdCAQAAhAK",
+      "model_size": "medium",
+      "final_loss": 0.015247417613863945,
+      "chamfer_distance": 0.13591255247592926,
+      "train_time_s": 10.411001205444336
+    },
+    {
+      "shape_id": "p461_AgAECBUaDAAFDAMdAAAYDBAK",
+      "model_size": "medium",
+      "final_loss": 0.01115541160106659,
+      "chamfer_distance": 0.20877745747566223,
+      "train_time_s": 10.42211627960205
+    },
+    {
+      "shape_id": "p462_EwAADxURDAABCwMWEQAcCxAB",
+      "model_size": "medium",
+      "final_loss": 0.005900581832975149,
+      "chamfer_distance": 0.18326035141944885,
+      "train_time_s": 10.449846744537354
+    },
+    {
+      "shape_id": "p463_AwAQCB8WEwMaChUOEAgBFhQa_1",
+      "model_size": "medium",
+      "final_loss": 0.025317545980215073,
+      "chamfer_distance": 0.28926998376846313,
+      "train_time_s": 10.397634267807007
+    },
+    {
+      "shape_id": "p463_AwAQCB8WEwMaChUOEAgBFhQa_2",
+      "model_size": "medium",
+      "final_loss": 0.008950691670179367,
+      "chamfer_distance": 0.24725109338760376,
+      "train_time_s": 10.40980577468872
+    },
+    {
+      "shape_id": "p464_ARQABAMAGx8GFwMcGggfEAcd",
+      "model_size": "medium",
+      "final_loss": 0.009049254469573498,
+      "chamfer_distance": 0.2306669056415558,
+      "train_time_s": 10.442077875137329
+    },
+    {
+      "shape_id": "p465_Ag4BBAINHBINChUKAAQAFgcX",
+      "model_size": "medium",
+      "final_loss": 0.008012191392481327,
+      "chamfer_distance": 0.12455547600984573,
+      "train_time_s": 10.390145778656006
+    },
+    {
+      "shape_id": "p466_AAgeDRUcDAgfCQMbAggCCRAM",
+      "model_size": "medium",
+      "final_loss": 0.006241273134946823,
+      "chamfer_distance": 0.15232503414154053,
+      "train_time_s": 10.45336627960205
+    },
+    {
+      "shape_id": "p467_Bg4HFRESDA4GEQcVBA4bERQC_1",
+      "model_size": "medium",
+      "final_loss": 0.008288749493658543,
+      "chamfer_distance": 0.0977497398853302,
+      "train_time_s": 10.427170753479004
+    },
+    {
+      "shape_id": "p468_BgQAAAMcFwYGDBgKAAAdERAf",
+      "model_size": "medium",
+      "final_loss": 0.012806588783860207,
+      "chamfer_distance": 0.45638394355773926,
+      "train_time_s": 10.450711250305176
+    },
+    {
+      "shape_id": "p469_EQ8WExURDA8XFwMWEw8KFxAB_1",
+      "model_size": "medium",
+      "final_loss": 0.009103028103709221,
+      "chamfer_distance": 0.15575863420963287,
+      "train_time_s": 10.41747260093689
+    },
+    {
+      "shape_id": "p469_EQ8WExURDA8XFwMWEw8KFxAB_2",
+      "model_size": "medium",
+      "final_loss": 0.03227587044239044,
+      "chamfer_distance": 1.2525745630264282,
+      "train_time_s": 10.523244380950928
+    },
+    {
+      "shape_id": "p470_Gw4EABMNBAgQGwkZEwILExwb",
+      "model_size": "medium",
+      "final_loss": 0.010996097698807716,
+      "chamfer_distance": 0.1348344385623932,
+      "train_time_s": 10.400034427642822
+    },
+    {
+      "shape_id": "p471_EhMXEhMBEx8BABUMGwAMFxAL_b",
+      "model_size": "medium",
+      "final_loss": 0.016644427552819252,
+      "chamfer_distance": 0.21339115500450134,
+      "train_time_s": 10.45657730102539
+    },
+    {
+      "shape_id": "p472_HAAACAYBFxMWGwcdGxcHAAcd",
+      "model_size": "medium",
+      "final_loss": 0.010020436719059944,
+      "chamfer_distance": 0.21811729669570923,
+      "train_time_s": 10.429136276245117
+    },
+    {
+      "shape_id": "p473_AxQRCRUcDBQQDQMbARQNDRAM_a",
+      "model_size": "medium",
+      "final_loss": 0.00833961833268404,
+      "chamfer_distance": 0.1626046895980835,
+      "train_time_s": 10.442170143127441
+    },
+    {
+      "shape_id": "p474_FAgdFBYWGw4GAwIGHRQIARwX_RICA",
+      "model_size": "medium",
+      "final_loss": 0.012140380218625069,
+      "chamfer_distance": 0.3992989659309387,
+      "train_time_s": 10.42649245262146
+    },
+    {
+      "shape_id": "p475_FAgdFBYWGw4GAwIGHRQIARwX_LICA_b",
+      "model_size": "medium",
+      "final_loss": 0.032133765518665314,
+      "chamfer_distance": 0.2517538070678711,
+      "train_time_s": 10.481616497039795
+    },
+    {
+      "shape_id": "p476_Ag4RCREcDA4QDQcbAA4NDRQM",
+      "model_size": "medium",
+      "final_loss": 0.007517879828810692,
+      "chamfer_distance": 0.30056026577949524,
+      "train_time_s": 10.424805641174316
+    },
+    {
+      "shape_id": "p477_EgAIDgYNABMKGwcVHRcLFwcB",
+      "model_size": "medium",
+      "final_loss": 0.01793600618839264,
+      "chamfer_distance": 0.35347580909729004,
+      "train_time_s": 10.475866079330444
+    },
+    {
+      "shape_id": "p478_FhMdEgMJAAUNFwkcAQAcARMK",
+      "model_size": "medium",
+      "final_loss": 0.008128268644213676,
+      "chamfer_distance": 0.2221958339214325,
+      "train_time_s": 10.46606969833374
+    },
+    {
+      "shape_id": "p479_FBMdGw4aHRsXFwkVFhMBHxEK",
+      "model_size": "medium",
+      "final_loss": 0.006467823870480061,
+      "chamfer_distance": 0.20241445302963257,
+      "train_time_s": 10.473185539245605
+    },
+    {
+      "shape_id": "p480_GRIXDxkWAQQdDA8cFw8HDAYd_LICA",
+      "model_size": "medium",
+      "final_loss": 0.006499950308352709,
+      "chamfer_distance": 0.25629088282585144,
+      "train_time_s": 10.447740077972412
+    },
+    {
+      "shape_id": "p481_GRIXDxkWAQQdDA8cFw8HDAYd_RICA",
+      "model_size": "medium",
+      "final_loss": 0.011828584596514702,
+      "chamfer_distance": 0.2253749966621399,
+      "train_time_s": 10.394437074661255
+    },
+    {
+      "shape_id": "p482_AwAaCAQBDAAbDBIGAQAGDAER",
+      "model_size": "medium",
+      "final_loss": 0.013224611058831215,
+      "chamfer_distance": 0.17691050469875336,
+      "train_time_s": 10.446027278900146
+    },
+    {
+      "shape_id": "p483_CQABEhkGDAAAFg8BCwAdFhwW_1",
+      "model_size": "medium",
+      "final_loss": 0.008982849307358265,
+      "chamfer_distance": 0.1135418564081192,
+      "train_time_s": 10.383546829223633
+    },
+    {
+      "shape_id": "p483_CQABEhkGDAAAFg8BCwAdFhwW_2",
+      "model_size": "medium",
+      "final_loss": 0.025208784267306328,
+      "chamfer_distance": 0.30307599902153015,
+      "train_time_s": 10.45595407485962
+    },
+    {
+      "shape_id": "p484_FwgADhQWGxMcAQEGAA4KAhwK",
+      "model_size": "medium",
+      "final_loss": 0.008418147452175617,
+      "chamfer_distance": 0.3552444279193878,
+      "train_time_s": 10.401441812515259
+    },
+    {
+      "shape_id": "p485_FwkXAwINHAQUEBURGgQMFxAW",
+      "model_size": "medium",
+      "final_loss": 0.007503026630729437,
+      "chamfer_distance": 0.25454556941986084,
+      "train_time_s": 10.450340986251831
+    },
+    {
+      "shape_id": "p486_AwQAFxEBAR8WFxAOGxIdAAcO",
+      "model_size": "medium",
+      "final_loss": 0.009785176254808903,
+      "chamfer_distance": 0.2791483402252197,
+      "train_time_s": 10.41491961479187
+    },
+    {
+      "shape_id": "p487_BwAVBB4WEwYWCxEOFQQAEhQf",
+      "model_size": "medium",
+      "final_loss": 0.010215525515377522,
+      "chamfer_distance": 0.15396806597709656,
+      "train_time_s": 10.468352317810059
+    },
+    {
+      "shape_id": "p488_BAkbBAIRDAkaABQWBgkHAAcB_LV",
+      "model_size": "medium",
+      "final_loss": 0.01284938957542181,
+      "chamfer_distance": 0.24107307195663452,
+      "train_time_s": 10.420231103897095
+    },
+    {
+      "shape_id": "p489_BAkbBAIRDAkaABQWBgkHAAcB_LICA",
+      "model_size": "medium",
+      "final_loss": 0.017033686861395836,
+      "chamfer_distance": 0.2597370147705078,
+      "train_time_s": 10.43930459022522
+    },
+    {
+      "shape_id": "p490_EhMHDx4NAB8BEAgBFxMMFwAW_1",
+      "model_size": "medium",
+      "final_loss": 0.01104644313454628,
+      "chamfer_distance": 0.3547300100326538,
+      "train_time_s": 10.427443265914917
+    },
+    {
+      "shape_id": "p491_EgQcFxUGBxUaGwMBBAQAEAER_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.008628763258457184,
+      "chamfer_distance": 0.23821619153022766,
+      "train_time_s": 10.460127353668213
+    },
+    {
+      "shape_id": "p491_EgQcFxUGBxUaGwMBBAQAEAER_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.006150173954665661,
+      "chamfer_distance": 0.12047114968299866,
+      "train_time_s": 10.451232433319092
+    },
+    {
+      "shape_id": "p492_EgQcFxUGBxUaGwMBBAQAEAER_LICA",
+      "model_size": "medium",
+      "final_loss": 0.0336136557161808,
+      "chamfer_distance": 0.38269299268722534,
+      "train_time_s": 10.490949392318726
+    },
+    {
+      "shape_id": "p493_AgQbEi8aGwMWDBQADAQHFioK_a",
+      "model_size": "medium",
+      "final_loss": 0.007031528744846582,
+      "chamfer_distance": 0.1746593862771988,
+      "train_time_s": 10.42071008682251
+    },
+    {
+      "shape_id": "p494_FwARCR8dFh8SBg4ABwUJBBYQ_b",
+      "model_size": "medium",
+      "final_loss": 0.007732126396149397,
+      "chamfer_distance": 0.12628568708896637,
+      "train_time_s": 10.448633193969727
+    },
+    {
+      "shape_id": "p495_AAQAExkGDAQBFw8BAgQcFxwW_1",
+      "model_size": "medium",
+      "final_loss": 0.00687659066170454,
+      "chamfer_distance": 0.15499089658260345,
+      "train_time_s": 10.421427488327026
+    },
+    {
+      "shape_id": "p495_AAQAExkGDAQBFw8BAgQcFxwW_2",
+      "model_size": "medium",
+      "final_loss": 0.009508509188890457,
+      "chamfer_distance": 0.18615636229515076,
+      "train_time_s": 10.450980186462402
+    },
+    {
+      "shape_id": "p496_HQgeCRkcDAgfDQ8bHwgCDRwM",
+      "model_size": "medium",
+      "final_loss": 0.010648425668478012,
+      "chamfer_distance": 0.14965341985225677,
+      "train_time_s": 10.433115482330322
+    },
+    {
+      "shape_id": "p497_AwIaCBUbAR8QDQ8KARIdBh0R",
+      "model_size": "medium",
+      "final_loss": 0.00870286114513874,
+      "chamfer_distance": 0.22053536772727966,
+      "train_time_s": 10.42333984375
+    },
+    {
+      "shape_id": "p498_Fw4fBAoWHQwWHwEAHwQUAhoV_LICA",
+      "model_size": "medium",
+      "final_loss": 0.00917409360408783,
+      "chamfer_distance": 0.24747779965400696,
+      "train_time_s": 10.455622673034668
+    },
+    {
+      "shape_id": "p499_Fw4fBAoWHQwWHwEAHwQUAhoV_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.008129618130624294,
+      "chamfer_distance": 0.14560413360595703,
+      "train_time_s": 10.42180609703064
+    },
+    {
+      "shape_id": "p499_Fw4fBAoWHQwWHwEAHwQUAhoV_RICA_2a",
+      "model_size": "medium",
+      "final_loss": 0.00550556555390358,
+      "chamfer_distance": 0.21203529834747314,
+      "train_time_s": 10.467554092407227
+    },
+    {
+      "shape_id": "p500_FAAtEhkEBAANBDkcGw0YBBEZ",
+      "model_size": "medium",
+      "final_loss": 0.0065147653222084045,
+      "chamfer_distance": 0.25651440024375916,
+      "train_time_s": 10.420078039169312
+    },
+    {
+      "shape_id": "p501_GAQWCBcNAB8WAQ8IFxMGABER",
+      "model_size": "medium",
+      "final_loss": 0.011081624776124954,
+      "chamfer_distance": 0.2514811158180237,
+      "train_time_s": 10.483044624328613
+    },
+    {
+      "shape_id": "p502_Ag4LHx8RAA4KFwkWAA4XFxoB_RICA",
+      "model_size": "medium",
+      "final_loss": 0.013755043037235737,
+      "chamfer_distance": 0.25593966245651245,
+      "train_time_s": 10.434776782989502
+    },
+    {
+      "shape_id": "p503_Ag4LHx8RAA4KFwkWAA4XFxoB_LICA",
+      "model_size": "medium",
+      "final_loss": 0.01173704955726862,
+      "chamfer_distance": 0.2389899343252182,
+      "train_time_s": 10.516314268112183
+    },
+    {
+      "shape_id": "p504_Gw4dHx8HGQ4cDgkAGQ4BDhoX",
+      "model_size": "medium",
+      "final_loss": 0.008111124858260155,
+      "chamfer_distance": 0.21325168013572693,
+      "train_time_s": 10.45770812034607
+    },
+    {
+      "shape_id": "p505_FwQAAxEdHhUNABQNExQCERId",
+      "model_size": "medium",
+      "final_loss": 0.010200845077633858,
+      "chamfer_distance": 0.14142486453056335,
+      "train_time_s": 10.467067956924438
+    },
+    {
+      "shape_id": "p506_BgAeAhUbEQkaCw8REw0NAAYb",
+      "model_size": "medium",
+      "final_loss": 0.007852436043322086,
+      "chamfer_distance": 0.2416311800479889,
+      "train_time_s": 10.416820526123047
+    },
+    {
+      "shape_id": "p507_BAQfERUEDAQeFQMDBgQDFRAU_RICA",
+      "model_size": "medium",
+      "final_loss": 0.012448673136532307,
+      "chamfer_distance": 0.21723854541778564,
+      "train_time_s": 10.481043338775635
+    },
+    {
+      "shape_id": "p508_BAQfERUEDAQeFQMDBgQDFRAU_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.009261975064873695,
+      "chamfer_distance": 0.21963757276535034,
+      "train_time_s": 10.441875457763672
+    },
+    {
+      "shape_id": "p508_BAQfERUEDAQeFQMDBgQDFRAU_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.014557776972651482,
+      "chamfer_distance": 0.35503846406936646,
+      "train_time_s": 10.490506649017334
+    },
+    {
+      "shape_id": "p509_EhMdAhgBFxMNFwkMGggLFxcK_RICA",
+      "model_size": "medium",
+      "final_loss": 0.012581122107803822,
+      "chamfer_distance": 0.24670712649822235,
+      "train_time_s": 10.429864883422852
+    },
+    {
+      "shape_id": "p510_EhMdAhgBFxMNFwkMGggLFxcK_RV",
+      "model_size": "medium",
+      "final_loss": 0.021086644381284714,
+      "chamfer_distance": 0.2941797375679016,
+      "train_time_s": 10.46375560760498
+    },
+    {
+      "shape_id": "p511_GAQAGw4NABsbABQVGgQcHx0d",
+      "model_size": "medium",
+      "final_loss": 0.01440702099353075,
+      "chamfer_distance": 0.2854177951812744,
+      "train_time_s": 10.430769443511963
+    },
+    {
+      "shape_id": "p512_FQwfAB4dFw0fDBgCHwAAEBAU",
+      "model_size": "medium",
+      "final_loss": 0.0064846002496778965,
+      "chamfer_distance": 0.2497405707836151,
+      "train_time_s": 10.481425285339355
+    },
+    {
+      "shape_id": "p513_BA4MDgQHBg4HChIABg4aCgEX",
+      "model_size": "medium",
+      "final_loss": 0.01095385942608118,
+      "chamfer_distance": 0.1946602165699005,
+      "train_time_s": 10.447591066360474
+    },
+    {
+      "shape_id": "p514_EwAfEREGEx8SCBYOHAANBBgI_RICA",
+      "model_size": "medium",
+      "final_loss": 0.010963940992951393,
+      "chamfer_distance": 0.14410483837127686,
+      "train_time_s": 10.444519996643066
+    },
+    {
+      "shape_id": "p515_Eg0TDxMHDA0SCwUAEA0PCxYX_RICA_b",
+      "model_size": "medium",
+      "final_loss": 0.007448302581906319,
+      "chamfer_distance": 0.2658206522464752,
+      "train_time_s": 10.485525846481323
+    },
+    {
+      "shape_id": "p516_FAQEBBwJCx8WEwMDExgKAAMd_LICA",
+      "model_size": "medium",
+      "final_loss": 0.013417496345937252,
+      "chamfer_distance": 0.1962389349937439,
+      "train_time_s": 10.465660333633423
+    },
+    {
+      "shape_id": "p517_BAgfDgUbAQAKABgGHw4bFgYZ_RICA",
+      "model_size": "medium",
+      "final_loss": 0.010199422016739845,
+      "chamfer_distance": 0.3134997487068176,
+      "train_time_s": 10.479844808578491
+    },
+    {
+      "shape_id": "p518_ERUeAB4WBg0SCwcbHgAABAEU_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.01114181149750948,
+      "chamfer_distance": 0.2198432832956314,
+      "train_time_s": 10.46468734741211
+    },
+    {
+      "shape_id": "p518_ERUeAB4WBg0SCwcbHgAABAEU_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.015207679010927677,
+      "chamfer_distance": 0.2371215671300888,
+      "train_time_s": 10.490875959396362
+    },
+    {
+      "shape_id": "p518_ERUeAB4WBg0SCwcbHgAABAEU_RICA_3",
+      "model_size": "medium",
+      "final_loss": 0.008914925158023834,
+      "chamfer_distance": 0.2753673493862152,
+      "train_time_s": 10.463073492050171
+    },
+    {
+      "shape_id": "p519_EgAeDBUaDAAfCAMdEAACCBAK_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.01288248598575592,
+      "chamfer_distance": 0.3734093904495239,
+      "train_time_s": 10.486006259918213
+    },
+    {
+      "shape_id": "p523_GgARAhEaFh8SBgUOAAUEBBYb_RICA",
+      "model_size": "medium",
+      "final_loss": 0.008651511743664742,
+      "chamfer_distance": 0.2579219341278076,
+      "train_time_s": 10.461786270141602
+    },
+    {
+      "shape_id": "p525_Ag4BBAINHBINChUKAAQAFgcX_LMCA_1",
+      "model_size": "medium",
+      "final_loss": 0.006202115677297115,
+      "chamfer_distance": 0.09949102997779846,
+      "train_time_s": 10.504821300506592
+    },
+    {
+      "shape_id": "p525_Ag4BBAINHBINChUKAAQAFgcX_LMCA_2",
+      "model_size": "medium",
+      "final_loss": 0.01238175667822361,
+      "chamfer_distance": 0.3245833218097687,
+      "train_time_s": 10.485080242156982
+    },
+    {
+      "shape_id": "p526_EwkTDxUSDAkSCwMVEQkPCxAC_LICA",
+      "model_size": "medium",
+      "final_loss": 0.0098420986905694,
+      "chamfer_distance": 0.3041589856147766,
+      "train_time_s": 10.522423267364502
+    },
+    {
+      "shape_id": "p527_Eg4ADxEGFh8cFwgOHAUMCgcW",
+      "model_size": "medium",
+      "final_loss": 0.00721157668158412,
+      "chamfer_distance": 0.23484817147254944,
+      "train_time_s": 10.475919246673584
+    },
+    {
+      "shape_id": "p528_BAAEAAINAR8SEwcdFxIaBAMZ",
+      "model_size": "medium",
+      "final_loss": 0.006926636211574078,
+      "chamfer_distance": 0.22367341816425323,
+      "train_time_s": 10.538706302642822
+    },
+    {
+      "shape_id": "p529_HRQcEhgWBw8ADQsaHBIGCAAW_LICA",
+      "model_size": "medium",
+      "final_loss": 0.00905963871628046,
+      "chamfer_distance": 0.2764090597629547,
+      "train_time_s": 10.497364521026611
+    },
+    {
+      "shape_id": "p530_AAgcCR83HgQaEQMRGw8GCioU_LICA",
+      "model_size": "medium",
+      "final_loss": 0.01197313703596592,
+      "chamfer_distance": 0.5000280141830444,
+      "train_time_s": 10.531172513961792
+    },
+    {
+      "shape_id": "p531_AAgcCR83HgQaEQMRGw8GCioU_RICA",
+      "model_size": "medium",
+      "final_loss": 0.009070721454918385,
+      "chamfer_distance": 0.23174166679382324,
+      "train_time_s": 10.494406938552856
+    },
+    {
+      "shape_id": "p532_EwAcCAYNCB8SCw8ZFxsNBBsR_RICA",
+      "model_size": "medium",
+      "final_loss": 0.008607098832726479,
+      "chamfer_distance": 0.24116180837154388,
+      "train_time_s": 10.535165071487427
+    },
+    {
+      "shape_id": "p533_BhQRCh8eGwINEAUEHRcHBgMN_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.01052384078502655,
+      "chamfer_distance": 0.31285518407821655,
+      "train_time_s": 10.495531797409058
+    },
+    {
+      "shape_id": "p533_BhQRCh8eGwINEAUEHRcHBgMN_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.017201710492372513,
+      "chamfer_distance": 0.29671192169189453,
+      "train_time_s": 10.479693174362183
+    },
+    {
+      "shape_id": "p534_Ag4BEhUcDA4AFgMbAA4dFhAM_RICA",
+      "model_size": "medium",
+      "final_loss": 0.007355628535151482,
+      "chamfer_distance": 0.22417311370372772,
+      "train_time_s": 10.55786395072937
+    },
+    {
+      "shape_id": "p535_FQ0QEwkLGhUNCQQdCwIGERAU_LICA_1sib",
+      "model_size": "medium",
+      "final_loss": 0.007163839880377054,
+      "chamfer_distance": 0.24080468714237213,
+      "train_time_s": 10.484067916870117
+    },
+    {
+      "shape_id": "p536_GBQVAAMWBwYSFg4aFQAdDQAf_LICA_1",
+      "model_size": "medium",
+      "final_loss": 0.005564277060329914,
+      "chamfer_distance": 0.25730884075164795,
+      "train_time_s": 10.516818761825562
+    },
+    {
+      "shape_id": "p536_GBQVAAMWBwYSFg4aFQAdDQAf_LICA_2",
+      "model_size": "medium",
+      "final_loss": 0.02632986567914486,
+      "chamfer_distance": 0.3309018909931183,
+      "train_time_s": 10.448575496673584
+    },
+    {
+      "shape_id": "p538_EgAAAxUSExUNBBQNFxsPERcZ_LICA",
+      "model_size": "medium",
+      "final_loss": 0.011084824800491333,
+      "chamfer_distance": 0.26058802008628845,
+      "train_time_s": 10.505454540252686
+    },
+    {
+      "shape_id": "p540_FxQbDRwNBh8GDAoDFxUJEBwU_RICA",
+      "model_size": "medium",
+      "final_loss": 0.009674156084656715,
+      "chamfer_distance": 0.23388998210430145,
+      "train_time_s": 10.498651504516602
+    },
+    {
+      "shape_id": "p541_AAgRAAIMLQYGDAEBHQ8xNzw7MQ==_Acom_1",
+      "model_size": "medium",
+      "final_loss": 0.008539065718650818,
+      "chamfer_distance": 0.31227999925613403,
+      "train_time_s": 10.518847942352295
+    },
+    {
+      "shape_id": "p541_AAgRAAIMLQYGDAEBHQ8xNzw7MQ==_Acom_2",
+      "model_size": "medium",
+      "final_loss": 0.008256318047642708,
+      "chamfer_distance": 0.2069035768508911,
+      "train_time_s": 10.47762155532837
+    },
+    {
+      "shape_id": "p543_HBQcAAIMGx8GCwcdFggCEBsZ_Rpericallous",
+      "model_size": "medium",
+      "final_loss": 0.02419411391019821,
+      "chamfer_distance": 0.35228824615478516,
+      "train_time_s": 10.495737791061401
+    },
+    {
+      "shape_id": "p544_BBIbFR8bDBIaEQkcBhIHERoL_RICA",
+      "model_size": "medium",
+      "final_loss": 0.012815156951546669,
+      "chamfer_distance": 0.3133622109889984,
+      "train_time_s": 10.49899435043335
+    },
+    {
+      "shape_id": "p547_Eg4cDxUeGwQNCggBFxcHABcX_RICA",
+      "model_size": "medium",
+      "final_loss": 0.006305214017629623,
+      "chamfer_distance": 0.25497734546661377,
+      "train_time_s": 10.512459516525269
+    },
+    {
+      "shape_id": "p548_FAAtDQUSDAAsCRMVFgAxCQAC_LICA",
+      "model_size": "medium",
+      "final_loss": 0.012989861890673637,
+      "chamfer_distance": 0.3062226176261902,
+      "train_time_s": 10.494515180587769
+    },
+    {
+      "shape_id": "p549_AwAeAA4JHgAABAoOAQACBAYZ_TB",
+      "model_size": "medium",
+      "final_loss": 0.03091578185558319,
+      "chamfer_distance": 0.4304163157939911,
+      "train_time_s": 10.511433124542236
+    },
+    {
+      "shape_id": "p550_Gw4aDwQHAhENCg4BBg4eFR4X_LICA",
+      "model_size": "medium",
+      "final_loss": 0.015714522451162338,
+      "chamfer_distance": 0.37541627883911133,
+      "train_time_s": 10.506875038146973
+    },
+    {
+      "shape_id": "p551_EwkdAxESDAkcBwcVEQkBBxQC_RMCA_1",
+      "model_size": "medium",
+      "final_loss": 0.010937857441604137,
+      "chamfer_distance": 0.2005143165588379,
+      "train_time_s": 10.50851845741272
+    },
+    {
+      "shape_id": "p551_EwkdAxESDAkcBwcVEQkBBxQC_RMCA_2",
+      "model_size": "medium",
+      "final_loss": 0.03240416944026947,
+      "chamfer_distance": 0.44113123416900635,
+      "train_time_s": 10.468409538269043
+    },
+    {
+      "shape_id": "p552_AwkTAxEGGx8bBAQOHAgdDRQa_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.01007313746958971,
+      "chamfer_distance": 0.15515077114105225,
+      "train_time_s": 10.493292808532715
+    },
+    {
+      "shape_id": "p552_AwkTAxEGGx8bBAQOHAgdDRQa_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.018012579530477524,
+      "chamfer_distance": 0.21700060367584229,
+      "train_time_s": 10.48618221282959
+    },
+    {
+      "shape_id": "p553_FxMTDxQCFwAdGxQOHAUEABQW_RICA_2",
+      "model_size": "medium",
+      "final_loss": 0.027844810858368874,
+      "chamfer_distance": 0.4456396996974945,
+      "train_time_s": 10.500650644302368
+    },
+    {
+      "shape_id": "p553_FxMTDxQCFwAdGxQOHAUEABQW_RICA_1",
+      "model_size": "medium",
+      "final_loss": 0.017893431708216667,
+      "chamfer_distance": 0.35872817039489746,
+      "train_time_s": 10.522876501083374
+    },
+    {
+      "shape_id": "p554_AwQAFxEBAR8WFxAOGxIdAAcO_RICA",
+      "model_size": "medium",
+      "final_loss": 0.008441890589892864,
+      "chamfer_distance": 0.20447906851768494,
+      "train_time_s": 10.465901136398315
+    },
+    {
+      "shape_id": "p555_AAQAExkGDAQBFw8BAgQcFxwW_TB",
+      "model_size": "medium",
+      "final_loss": 0.008151885122060776,
+      "chamfer_distance": 0.3151381313800812,
+      "train_time_s": 10.530253648757935
+    },
+    {
+      "shape_id": "SNF00000024",
+      "model_size": "medium",
+      "final_loss": 0.007564804516732693,
+      "chamfer_distance": 0.26118898391723633,
+      "train_time_s": 10.479373693466187
+    },
+    {
+      "shape_id": "SNF00000026",
+      "model_size": "medium",
+      "final_loss": 0.016576241701841354,
+      "chamfer_distance": 0.2468430995941162,
+      "train_time_s": 10.527659177780151
+    },
+    {
+      "shape_id": "SNF00000027",
+      "model_size": "medium",
+      "final_loss": 0.01398511603474617,
+      "chamfer_distance": 0.2863849103450775,
+      "train_time_s": 10.479792356491089
+    },
+    {
+      "shape_id": "SNF00000036_01_1",
+      "model_size": "medium",
+      "final_loss": 0.025740576907992363,
+      "chamfer_distance": 0.1941886842250824,
+      "train_time_s": 10.520468711853027
+    },
+    {
+      "shape_id": "SNF00000036_02_2",
+      "model_size": "medium",
+      "final_loss": 0.013614539057016373,
+      "chamfer_distance": 0.23369592428207397,
+      "train_time_s": 10.478309392929077
+    },
+    {
+      "shape_id": "SNF00000048",
+      "model_size": "medium",
+      "final_loss": 0.007749568670988083,
+      "chamfer_distance": 0.1829354614019394,
+      "train_time_s": 10.534889459609985
+    },
+    {
+      "shape_id": "SNF00000049_01_1",
+      "model_size": "medium",
+      "final_loss": 0.01190267875790596,
+      "chamfer_distance": 0.2142261117696762,
+      "train_time_s": 10.492002010345459
+    },
+    {
+      "shape_id": "SNF00000049_01_2",
+      "model_size": "medium",
+      "final_loss": 0.017292477190494537,
+      "chamfer_distance": 0.27161070704460144,
+      "train_time_s": 10.529295206069946
+    },
+    {
+      "shape_id": "SNF00000049_01_3",
+      "model_size": "medium",
+      "final_loss": 0.05459994077682495,
+      "chamfer_distance": 0.4538338780403137,
+      "train_time_s": 10.505078077316284
+    },
+    {
+      "shape_id": "SNF00000049_01_4",
+      "model_size": "medium",
+      "final_loss": 0.009499368257820606,
+      "chamfer_distance": 0.26809161901474,
+      "train_time_s": 10.524979829788208
+    },
+    {
+      "shape_id": "SNF00000054_01_1",
+      "model_size": "medium",
+      "final_loss": 0.0055296653881669044,
+      "chamfer_distance": 0.18103420734405518,
+      "train_time_s": 10.498514652252197
+    },
+    {
+      "shape_id": "SNF00000054_01_2",
+      "model_size": "medium",
+      "final_loss": 0.01163615845143795,
+      "chamfer_distance": 0.27531614899635315,
+      "train_time_s": 10.518194913864136
+    },
+    {
+      "shape_id": "SNF00000055",
+      "model_size": "medium",
+      "final_loss": 0.014923889189958572,
+      "chamfer_distance": 0.2845083177089691,
+      "train_time_s": 10.475452661514282
+    },
+    {
+      "shape_id": "SNF00000059",
+      "model_size": "medium",
+      "final_loss": 0.0056492420844733715,
+      "chamfer_distance": 0.18106459081172943,
+      "train_time_s": 10.531949043273926
+    },
+    {
+      "shape_id": "SNF00000063",
+      "model_size": "medium",
+      "final_loss": 0.007265550550073385,
+      "chamfer_distance": 0.1093563586473465,
+      "train_time_s": 10.483731985092163
+    },
+    {
+      "shape_id": "SNF00000070",
+      "model_size": "medium",
+      "final_loss": 0.0084537947550416,
+      "chamfer_distance": 0.2202654480934143,
+      "train_time_s": 10.495564699172974
+    },
+    {
+      "shape_id": "SNF00000074",
+      "model_size": "medium",
+      "final_loss": 0.010745376348495483,
+      "chamfer_distance": 0.10429389029741287,
+      "train_time_s": 10.523157358169556
+    },
+    {
+      "shape_id": "SNF00000077_01_1",
+      "model_size": "medium",
+      "final_loss": 0.012053372338414192,
+      "chamfer_distance": 0.21484029293060303,
+      "train_time_s": 10.483935832977295
+    },
+    {
+      "shape_id": "SNF00000077_01_2",
+      "model_size": "medium",
+      "final_loss": 0.01058665756136179,
+      "chamfer_distance": 0.37299680709838867,
+      "train_time_s": 10.5128915309906
+    },
+    {
+      "shape_id": "SNF00000082",
+      "model_size": "medium",
+      "final_loss": 0.011468775570392609,
+      "chamfer_distance": 0.24235589802265167,
+      "train_time_s": 10.513532400131226
+    },
+    {
+      "shape_id": "SNF00000090",
+      "model_size": "medium",
+      "final_loss": 0.00622407766059041,
+      "chamfer_distance": 0.13165125250816345,
+      "train_time_s": 10.53305172920227
+    },
+    {
+      "shape_id": "SNF00000094_01_1",
+      "model_size": "medium",
+      "final_loss": 0.0101756751537323,
+      "chamfer_distance": 0.11258465051651001,
+      "train_time_s": 10.495218276977539
+    },
+    {
+      "shape_id": "SNF00000094_01_2",
+      "model_size": "medium",
+      "final_loss": 0.007716631982475519,
+      "chamfer_distance": 0.3071109652519226,
+      "train_time_s": 10.557652711868286
+    },
+    {
+      "shape_id": "SNF00000095",
+      "model_size": "medium",
+      "final_loss": 0.006344405934214592,
+      "chamfer_distance": 0.16710165143013,
+      "train_time_s": 10.497305870056152
+    },
+    {
+      "shape_id": "SNF00000100",
+      "model_size": "medium",
+      "final_loss": 0.009434298612177372,
+      "chamfer_distance": 0.22537069022655487,
+      "train_time_s": 10.556130647659302
+    },
+    {
+      "shape_id": "SNF00000114",
+      "model_size": "medium",
+      "final_loss": 0.01017020083963871,
+      "chamfer_distance": 0.11255605518817902,
+      "train_time_s": 10.500499963760376
+    },
+    {
+      "shape_id": "SNF00000125",
+      "model_size": "medium",
+      "final_loss": 0.010663619264960289,
+      "chamfer_distance": 0.2272701859474182,
+      "train_time_s": 10.53677248954773
+    },
+    {
+      "shape_id": "SNF00000126",
+      "model_size": "medium",
+      "final_loss": 0.007149716839194298,
+      "chamfer_distance": 0.2428399920463562,
+      "train_time_s": 10.530803918838501
+    },
+    {
+      "shape_id": "SNF00000128",
+      "model_size": "medium",
+      "final_loss": 0.006762990728020668,
+      "chamfer_distance": 0.10119147598743439,
+      "train_time_s": 10.564650535583496
+    },
+    {
+      "shape_id": "SNF00000130_01_1sib",
+      "model_size": "medium",
+      "final_loss": 0.005848216824233532,
+      "chamfer_distance": 0.12583383917808533,
+      "train_time_s": 10.528118371963501
+    },
+    {
+      "shape_id": "SNF00000135",
+      "model_size": "medium",
+      "final_loss": 0.008689573034644127,
+      "chamfer_distance": 0.26902255415916443,
+      "train_time_s": 10.582788944244385
+    },
+    {
+      "shape_id": "SNF00000141",
+      "model_size": "medium",
+      "final_loss": 0.00831968430429697,
+      "chamfer_distance": 0.2502572536468506,
+      "train_time_s": 10.532649040222168
+    },
+    {
+      "shape_id": "SNF00000142_01_1sib",
+      "model_size": "medium",
+      "final_loss": 0.008282485418021679,
+      "chamfer_distance": 0.3541182577610016,
+      "train_time_s": 10.553518295288086
+    },
+    {
+      "shape_id": "SNF00000143_01_1",
+      "model_size": "medium",
+      "final_loss": 0.0070853023789823055,
+      "chamfer_distance": 0.19106419384479523,
+      "train_time_s": 10.531572341918945
+    },
+    {
+      "shape_id": "SNF00000143_01_2",
+      "model_size": "medium",
+      "final_loss": 0.0140937939286232,
+      "chamfer_distance": 0.18990108370780945,
+      "train_time_s": 10.52967381477356
+    },
+    {
+      "shape_id": "SNF00000144",
+      "model_size": "medium",
+      "final_loss": 0.01215076819062233,
+      "chamfer_distance": 0.13851399719715118,
+      "train_time_s": 10.573937892913818
+    },
+    {
+      "shape_id": "SNF00000146",
+      "model_size": "medium",
+      "final_loss": 0.03757224604487419,
+      "chamfer_distance": 0.4859011769294739,
+      "train_time_s": 10.545946598052979
+    },
+    {
+      "shape_id": "SNF00000148",
+      "model_size": "medium",
+      "final_loss": 0.009387523867189884,
+      "chamfer_distance": 0.11029002070426941,
+      "train_time_s": 10.57975172996521
+    },
+    {
+      "shape_id": "SNF00000152",
+      "model_size": "medium",
+      "final_loss": 0.006041679531335831,
+      "chamfer_distance": 0.16243356466293335,
+      "train_time_s": 10.564632892608643
+    },
+    {
+      "shape_id": "SNF00000154",
+      "model_size": "medium",
+      "final_loss": 0.03438381850719452,
+      "chamfer_distance": 0.8601436614990234,
+      "train_time_s": 10.58870553970337
+    },
+    {
+      "shape_id": "SNF00000173",
+      "model_size": "medium",
+      "final_loss": 0.009607409127056599,
+      "chamfer_distance": 0.34406140446662903,
+      "train_time_s": 10.558260917663574
+    },
+    {
+      "shape_id": "SNF00000175",
+      "model_size": "medium",
+      "final_loss": 0.008758904412388802,
+      "chamfer_distance": 0.20710067451000214,
+      "train_time_s": 10.601269483566284
+    },
+    {
+      "shape_id": "SNF00000185",
+      "model_size": "medium",
+      "final_loss": 0.005358756519854069,
+      "chamfer_distance": 0.20068100094795227,
+      "train_time_s": 10.546065092086792
+    },
+    {
+      "shape_id": "SNF00000186",
+      "model_size": "medium",
+      "final_loss": 0.007055735681205988,
+      "chamfer_distance": 0.17020367085933685,
+      "train_time_s": 10.58346700668335
+    },
+    {
+      "shape_id": "SNF00000189_1sib",
+      "model_size": "medium",
+      "final_loss": 0.008609435521066189,
+      "chamfer_distance": 0.1471986025571823,
+      "train_time_s": 10.496843099594116
+    },
+    {
+      "shape_id": "SNF00000208_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007634327746927738,
+      "chamfer_distance": 0.1880623698234558,
+      "train_time_s": 10.574315309524536
+    },
+    {
+      "shape_id": "SNF00000208_01_2",
+      "model_size": "medium",
+      "final_loss": 0.007596977055072784,
+      "chamfer_distance": 0.20321428775787354,
+      "train_time_s": 10.520581722259521
+    },
+    {
+      "shape_id": "SNF00000215",
+      "model_size": "medium",
+      "final_loss": 0.008058873936533928,
+      "chamfer_distance": 0.25160959362983704,
+      "train_time_s": 10.558772802352905
+    },
+    {
+      "shape_id": "SNF00000228_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007679815404117107,
+      "chamfer_distance": 0.315833181142807,
+      "train_time_s": 10.513666152954102
+    },
+    {
+      "shape_id": "SNF00000228_01_2",
+      "model_size": "medium",
+      "final_loss": 0.006213445216417313,
+      "chamfer_distance": 0.25725308060646057,
+      "train_time_s": 10.579145193099976
+    },
+    {
+      "shape_id": "SNF00000252",
+      "model_size": "medium",
+      "final_loss": 0.009415971115231514,
+      "chamfer_distance": 0.11558496206998825,
+      "train_time_s": 10.50678277015686
+    },
+    {
+      "shape_id": "SNF00000259_01_1",
+      "model_size": "medium",
+      "final_loss": 0.016954626888036728,
+      "chamfer_distance": 0.19512274861335754,
+      "train_time_s": 10.548521995544434
+    },
+    {
+      "shape_id": "SNF00000259_01_2",
+      "model_size": "medium",
+      "final_loss": 0.012957926839590073,
+      "chamfer_distance": 0.48071038722991943,
+      "train_time_s": 10.513829231262207
+    },
+    {
+      "shape_id": "SNF00000261",
+      "model_size": "medium",
+      "final_loss": 0.005646558944135904,
+      "chamfer_distance": 0.1870347559452057,
+      "train_time_s": 10.515337705612183
+    },
+    {
+      "shape_id": "SNF00000267",
+      "model_size": "medium",
+      "final_loss": 0.01139468140900135,
+      "chamfer_distance": 0.18318483233451843,
+      "train_time_s": 10.542518854141235
+    },
+    {
+      "shape_id": "SNF00000270",
+      "model_size": "medium",
+      "final_loss": 0.01014234684407711,
+      "chamfer_distance": 0.22379170358181,
+      "train_time_s": 10.521170616149902
+    },
+    {
+      "shape_id": "SNF00000273",
+      "model_size": "medium",
+      "final_loss": 0.006507114972919226,
+      "chamfer_distance": 0.15401878952980042,
+      "train_time_s": 10.574681520462036
+    },
+    {
+      "shape_id": "SNF00000284",
+      "model_size": "medium",
+      "final_loss": 0.01113852858543396,
+      "chamfer_distance": 0.1630944311618805,
+      "train_time_s": 10.508893728256226
+    },
+    {
+      "shape_id": "SNF00000285",
+      "model_size": "medium",
+      "final_loss": 0.009324796497821808,
+      "chamfer_distance": 0.14426614344120026,
+      "train_time_s": 10.551741361618042
+    },
+    {
+      "shape_id": "SNF00000286",
+      "model_size": "medium",
+      "final_loss": 0.0069834697060287,
+      "chamfer_distance": 0.17343425750732422,
+      "train_time_s": 10.540057897567749
+    },
+    {
+      "shape_id": "SNF00000294_01_1",
+      "model_size": "medium",
+      "final_loss": 0.009491733275353909,
+      "chamfer_distance": 0.1033417284488678,
+      "train_time_s": 10.562438726425171
+    },
+    {
+      "shape_id": "SNF00000294_01_2",
+      "model_size": "medium",
+      "final_loss": 0.009443781338632107,
+      "chamfer_distance": 0.13724614679813385,
+      "train_time_s": 10.52753210067749
+    },
+    {
+      "shape_id": "SNF00000303",
+      "model_size": "medium",
+      "final_loss": 0.010027111507952213,
+      "chamfer_distance": 0.15839728713035583,
+      "train_time_s": 10.587284564971924
+    },
+    {
+      "shape_id": "SNF00000309",
+      "model_size": "medium",
+      "final_loss": 0.010849562473595142,
+      "chamfer_distance": 0.1416676789522171,
+      "train_time_s": 10.545265913009644
+    },
+    {
+      "shape_id": "SNF00000332",
+      "model_size": "medium",
+      "final_loss": 0.013008760288357735,
+      "chamfer_distance": 0.3419581353664398,
+      "train_time_s": 10.561737298965454
+    },
+    {
+      "shape_id": "SNF00000335",
+      "model_size": "medium",
+      "final_loss": 0.005546581465750933,
+      "chamfer_distance": 0.21000222861766815,
+      "train_time_s": 10.517982006072998
+    },
+    {
+      "shape_id": "SNF00000338",
+      "model_size": "medium",
+      "final_loss": 0.0059030018746852875,
+      "chamfer_distance": 0.2316770851612091,
+      "train_time_s": 10.578192949295044
+    },
+    {
+      "shape_id": "SNF00000344",
+      "model_size": "medium",
+      "final_loss": 0.007889756001532078,
+      "chamfer_distance": 0.1119791567325592,
+      "train_time_s": 10.534172773361206
+    },
+    {
+      "shape_id": "SNF00000350",
+      "model_size": "medium",
+      "final_loss": 0.0118205975741148,
+      "chamfer_distance": 0.3046225309371948,
+      "train_time_s": 10.594508409500122
+    },
+    {
+      "shape_id": "SNF00000357",
+      "model_size": "medium",
+      "final_loss": 0.007825078442692757,
+      "chamfer_distance": 0.14434462785720825,
+      "train_time_s": 10.544318675994873
+    },
+    {
+      "shape_id": "SNF00000364_01_1",
+      "model_size": "medium",
+      "final_loss": 0.004172838293015957,
+      "chamfer_distance": 0.17683212459087372,
+      "train_time_s": 10.568233013153076
+    },
+    {
+      "shape_id": "SNF00000364_01_2",
+      "model_size": "medium",
+      "final_loss": 0.015317780897021294,
+      "chamfer_distance": 0.2783415913581848,
+      "train_time_s": 10.519478797912598
+    },
+    {
+      "shape_id": "SNF00000365_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007777359336614609,
+      "chamfer_distance": 0.1453622430562973,
+      "train_time_s": 10.526074647903442
+    },
+    {
+      "shape_id": "SNF00000365_02_1",
+      "model_size": "medium",
+      "final_loss": 0.007179281674325466,
+      "chamfer_distance": 0.21172939240932465,
+      "train_time_s": 10.579939365386963
+    },
+    {
+      "shape_id": "SNF00000373",
+      "model_size": "medium",
+      "final_loss": 0.010189075022935867,
+      "chamfer_distance": 0.3217722773551941,
+      "train_time_s": 10.550094842910767
+    },
+    {
+      "shape_id": "SNF00000388",
+      "model_size": "medium",
+      "final_loss": 0.023470643907785416,
+      "chamfer_distance": 0.5664985775947571,
+      "train_time_s": 10.610380411148071
+    },
+    {
+      "shape_id": "SNF00000391",
+      "model_size": "medium",
+      "final_loss": 0.007224661763757467,
+      "chamfer_distance": 0.1798378974199295,
+      "train_time_s": 10.547686338424683
+    },
+    {
+      "shape_id": "SNF00000398",
+      "model_size": "medium",
+      "final_loss": 0.0059406450018286705,
+      "chamfer_distance": 0.19807302951812744,
+      "train_time_s": 10.591720581054688
+    },
+    {
+      "shape_id": "SNF00000411",
+      "model_size": "medium",
+      "final_loss": 0.007252616807818413,
+      "chamfer_distance": 0.21411415934562683,
+      "train_time_s": 10.536534547805786
+    },
+    {
+      "shape_id": "SNF00000415",
+      "model_size": "medium",
+      "final_loss": 0.0051664141938090324,
+      "chamfer_distance": 0.248443603515625,
+      "train_time_s": 10.588685274124146
+    },
+    {
+      "shape_id": "SNF00000425",
+      "model_size": "medium",
+      "final_loss": 0.0055485558696091175,
+      "chamfer_distance": 0.1410178393125534,
+      "train_time_s": 10.538052797317505
+    },
+    {
+      "shape_id": "SNF00000426_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007329791784286499,
+      "chamfer_distance": 0.13641932606697083,
+      "train_time_s": 10.592744588851929
+    },
+    {
+      "shape_id": "SNF00000426_02_2",
+      "model_size": "medium",
+      "final_loss": 0.009631676599383354,
+      "chamfer_distance": 0.17658156156539917,
+      "train_time_s": 10.572893142700195
+    },
+    {
+      "shape_id": "SNF00000426_03_3",
+      "model_size": "medium",
+      "final_loss": 0.009982018731534481,
+      "chamfer_distance": 0.1509140580892563,
+      "train_time_s": 10.59835147857666
+    },
+    {
+      "shape_id": "SNF00000440",
+      "model_size": "medium",
+      "final_loss": 0.010034661740064621,
+      "chamfer_distance": 0.18579937517642975,
+      "train_time_s": 10.5495285987854
+    },
+    {
+      "shape_id": "SNF00000442",
+      "model_size": "medium",
+      "final_loss": 0.009677127003669739,
+      "chamfer_distance": 0.3026822507381439,
+      "train_time_s": 10.584054708480835
+    },
+    {
+      "shape_id": "SNF00000449",
+      "model_size": "medium",
+      "final_loss": 0.017512891441583633,
+      "chamfer_distance": 0.2938796281814575,
+      "train_time_s": 10.576602220535278
+    },
+    {
+      "shape_id": "SNF00000452",
+      "model_size": "medium",
+      "final_loss": 0.010038388893008232,
+      "chamfer_distance": 0.1441444307565689,
+      "train_time_s": 10.599398851394653
+    },
+    {
+      "shape_id": "SNF00000457",
+      "model_size": "medium",
+      "final_loss": 0.009816233068704605,
+      "chamfer_distance": 0.12024921178817749,
+      "train_time_s": 10.572185039520264
+    },
+    {
+      "shape_id": "SNF00000466",
+      "model_size": "medium",
+      "final_loss": 0.005621757823973894,
+      "chamfer_distance": 0.24144071340560913,
+      "train_time_s": 10.640641927719116
+    },
+    {
+      "shape_id": "SNF00000472_01_1",
+      "model_size": "medium",
+      "final_loss": 0.009240185841917992,
+      "chamfer_distance": 0.2033771425485611,
+      "train_time_s": 10.564850807189941
+    },
+    {
+      "shape_id": "SNF00000472_02_2",
+      "model_size": "medium",
+      "final_loss": 0.005079798400402069,
+      "chamfer_distance": 0.12740570306777954,
+      "train_time_s": 10.568982601165771
+    },
+    {
+      "shape_id": "SNF00000481",
+      "model_size": "medium",
+      "final_loss": 0.008980557322502136,
+      "chamfer_distance": 0.19065722823143005,
+      "train_time_s": 10.60106611251831
+    },
+    {
+      "shape_id": "SNF00000482",
+      "model_size": "medium",
+      "final_loss": 0.011844503693282604,
+      "chamfer_distance": 0.14858773350715637,
+      "train_time_s": 10.581120252609253
+    },
+    {
+      "shape_id": "SNF00000497_01_1",
+      "model_size": "medium",
+      "final_loss": 0.011772751808166504,
+      "chamfer_distance": 0.1450544148683548,
+      "train_time_s": 10.625656843185425
+    },
+    {
+      "shape_id": "SNF00000497_02_2",
+      "model_size": "medium",
+      "final_loss": 0.011843395419418812,
+      "chamfer_distance": 0.2572919428348541,
+      "train_time_s": 10.575635194778442
+    },
+    {
+      "shape_id": "SNF00000527",
+      "model_size": "medium",
+      "final_loss": 0.005539208650588989,
+      "chamfer_distance": 0.1839834749698639,
+      "train_time_s": 10.624330282211304
+    },
+    {
+      "shape_id": "SNF00000529",
+      "model_size": "medium",
+      "final_loss": 0.011508569121360779,
+      "chamfer_distance": 0.2824098467826843,
+      "train_time_s": 10.58461046218872
+    },
+    {
+      "shape_id": "SNF00000532",
+      "model_size": "medium",
+      "final_loss": 0.017840079963207245,
+      "chamfer_distance": 0.28507888317108154,
+      "train_time_s": 10.638667821884155
+    },
+    {
+      "shape_id": "SNF00000535",
+      "model_size": "medium",
+      "final_loss": 0.008733154274523258,
+      "chamfer_distance": 0.22931204736232758,
+      "train_time_s": 10.577619552612305
+    },
+    {
+      "shape_id": "SNF00000538_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007851684466004372,
+      "chamfer_distance": 0.11953015625476837,
+      "train_time_s": 10.656810522079468
+    },
+    {
+      "shape_id": "SNF00000538_02_2",
+      "model_size": "medium",
+      "final_loss": 0.005330160725861788,
+      "chamfer_distance": 0.12662959098815918,
+      "train_time_s": 10.623276948928833
+    },
+    {
+      "shape_id": "SNF00000553_01_1",
+      "model_size": "medium",
+      "final_loss": 0.012963462620973587,
+      "chamfer_distance": 0.31625109910964966,
+      "train_time_s": 10.631860971450806
+    },
+    {
+      "shape_id": "SNF00000553_02_2",
+      "model_size": "medium",
+      "final_loss": 0.014860185794532299,
+      "chamfer_distance": 0.21390575170516968,
+      "train_time_s": 10.559207201004028
+    },
+    {
+      "shape_id": "SNF00000554_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007927557453513145,
+      "chamfer_distance": 0.16918319463729858,
+      "train_time_s": 10.586639881134033
+    },
+    {
+      "shape_id": "SNF00000556",
+      "model_size": "medium",
+      "final_loss": 0.009997611865401268,
+      "chamfer_distance": 0.16700628399848938,
+      "train_time_s": 10.564134359359741
+    },
+    {
+      "shape_id": "SNF00000557",
+      "model_size": "medium",
+      "final_loss": 0.016050225123763084,
+      "chamfer_distance": 0.324693500995636,
+      "train_time_s": 10.603011846542358
+    },
+    {
+      "shape_id": "SNF00000570",
+      "model_size": "medium",
+      "final_loss": 0.009664364159107208,
+      "chamfer_distance": 0.21597404778003693,
+      "train_time_s": 10.567587852478027
+    },
+    {
+      "shape_id": "SNF00000580",
+      "model_size": "medium",
+      "final_loss": 0.007519281469285488,
+      "chamfer_distance": 0.20888981223106384,
+      "train_time_s": 10.615129709243774
+    },
+    {
+      "shape_id": "SNF00000581",
+      "model_size": "medium",
+      "final_loss": 0.009483695961534977,
+      "chamfer_distance": 0.21776391565799713,
+      "train_time_s": 10.565819263458252
+    },
+    {
+      "shape_id": "SNF00000591",
+      "model_size": "medium",
+      "final_loss": 0.007213830482214689,
+      "chamfer_distance": 0.20176313817501068,
+      "train_time_s": 10.556236743927002
+    },
+    {
+      "shape_id": "SNF00000592_01_1",
+      "model_size": "medium",
+      "final_loss": 0.007993506267666817,
+      "chamfer_distance": 0.3278428018093109,
+      "train_time_s": 10.624660968780518
+    },
+    {
+      "shape_id": "SNF00000592_03_3",
+      "model_size": "medium",
+      "final_loss": 0.008705196902155876,
+      "chamfer_distance": 0.21083803474903107,
+      "train_time_s": 10.596577644348145
+    },
+    {
+      "shape_id": "SNF00000592_03_4",
+      "model_size": "medium",
+      "final_loss": 0.011387191712856293,
+      "chamfer_distance": 0.3338344693183899,
+      "train_time_s": 10.610275745391846
+    },
+    {
+      "shape_id": "SNF00000596",
+      "model_size": "medium",
+      "final_loss": 0.007210919633507729,
+      "chamfer_distance": 0.1052478775382042,
+      "train_time_s": 10.599855422973633
+    },
+    {
+      "shape_id": "SNF00000606",
+      "model_size": "medium",
+      "final_loss": 0.010114800184965134,
+      "chamfer_distance": 0.12756448984146118,
+      "train_time_s": 10.604576110839844
+    },
+    {
+      "shape_id": "SNF00000607_01_1",
+      "model_size": "medium",
+      "final_loss": 0.010140039026737213,
+      "chamfer_distance": 0.23710498213768005,
+      "train_time_s": 10.56978702545166
+    },
+    {
+      "shape_id": "SNF00000607_01_2",
+      "model_size": "medium",
+      "final_loss": 0.023500606417655945,
+      "chamfer_distance": 0.4923681318759918,
+      "train_time_s": 10.643128156661987
+    },
+    {
+      "shape_id": "SNF00000614",
+      "model_size": "medium",
+      "final_loss": 0.00794256292283535,
+      "chamfer_distance": 0.24336089193820953,
+      "train_time_s": 10.59234094619751
+    },
+    {
+      "shape_id": "SNF00000617",
+      "model_size": "medium",
+      "final_loss": 0.009547006338834763,
+      "chamfer_distance": 0.23299625515937805,
+      "train_time_s": 10.626056671142578
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_09",
+      "model_size": "medium",
+      "final_loss": 0.011807003989815712,
+      "chamfer_distance": 0.19933855533599854,
+      "train_time_s": 10.567834854125977
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_16",
+      "model_size": "medium",
+      "final_loss": 0.033666808158159256,
+      "chamfer_distance": 0.46564844250679016,
+      "train_time_s": 10.614814519882202
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_17_10",
+      "model_size": "medium",
+      "final_loss": 0.006605739239603281,
+      "chamfer_distance": 0.25467586517333984,
+      "train_time_s": 10.581818580627441
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_27",
+      "model_size": "medium",
+      "final_loss": 0.02176593244075775,
+      "chamfer_distance": 0.5879116058349609,
+      "train_time_s": 10.604898691177368
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_28_269",
+      "model_size": "medium",
+      "final_loss": 0.021065615117549896,
+      "chamfer_distance": 0.6945183873176575,
+      "train_time_s": 10.561963558197021
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_30_612",
+      "model_size": "medium",
+      "final_loss": 0.006528358906507492,
+      "chamfer_distance": 0.23164741694927216,
+      "train_time_s": 10.642081260681152
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_30_614",
+      "model_size": "medium",
+      "final_loss": 0.019006524235010147,
+      "chamfer_distance": 0.27778002619743347,
+      "train_time_s": 10.575963735580444
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_33_628",
+      "model_size": "medium",
+      "final_loss": 0.013206986710429192,
+      "chamfer_distance": 0.37843769788742065,
+      "train_time_s": 10.607317447662354
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_33_631",
+      "model_size": "medium",
+      "final_loss": 0.010669395327568054,
+      "chamfer_distance": 0.2534326910972595,
+      "train_time_s": 10.608312845230103
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_34",
+      "model_size": "medium",
+      "final_loss": 0.010521989315748215,
+      "chamfer_distance": 0.1371486932039261,
+      "train_time_s": 10.564804077148438
+    },
+    {
+      "shape_id": "ANSYS_UNIGE_35",
+      "model_size": "medium",
+      "final_loss": 0.010367082431912422,
+      "chamfer_distance": 0.22322481870651245,
+      "train_time_s": 10.62345838546753
+    },
+    {
+      "shape_id": "UPF_P0001.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006875025574117899,
+      "chamfer_distance": 0.18858635425567627,
+      "train_time_s": 10.570679426193237
+    },
+    {
+      "shape_id": "UPF_P0003.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006219632923603058,
+      "chamfer_distance": 0.19174504280090332,
+      "train_time_s": 10.608808755874634
+    },
+    {
+      "shape_id": "UPF_P0012.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.00729009136557579,
+      "chamfer_distance": 0.28496989607810974,
+      "train_time_s": 10.584864616394043
+    },
+    {
+      "shape_id": "UPF_P0013.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010360435582697392,
+      "chamfer_distance": 0.30793333053588867,
+      "train_time_s": 10.634522438049316
+    },
+    {
+      "shape_id": "UPF_P0016.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0068750567734241486,
+      "chamfer_distance": 0.26588624715805054,
+      "train_time_s": 10.589539527893066
+    },
+    {
+      "shape_id": "UPF_P0019.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006575196515768766,
+      "chamfer_distance": 0.17016741633415222,
+      "train_time_s": 10.642497539520264
+    },
+    {
+      "shape_id": "UPF_P0024.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.012499863281846046,
+      "chamfer_distance": 0.11364352703094482,
+      "train_time_s": 10.604806900024414
+    },
+    {
+      "shape_id": "UPF_P0029.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010736469179391861,
+      "chamfer_distance": 0.192950040102005,
+      "train_time_s": 10.631656408309937
+    },
+    {
+      "shape_id": "UPF_P0031.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.011021582409739494,
+      "chamfer_distance": 0.30154746770858765,
+      "train_time_s": 10.616676092147827
+    },
+    {
+      "shape_id": "UPF_P0034.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010339310392737389,
+      "chamfer_distance": 0.1704157292842865,
+      "train_time_s": 10.6128671169281
+    },
+    {
+      "shape_id": "UPF_P0035.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.01322304829955101,
+      "chamfer_distance": 0.3149120509624481,
+      "train_time_s": 10.60892128944397
+    },
+    {
+      "shape_id": "UPF_P0038.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.007087180390954018,
+      "chamfer_distance": 0.23346522450447083,
+      "train_time_s": 10.644321203231812
+    },
+    {
+      "shape_id": "UPF_P0042.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.020822204649448395,
+      "chamfer_distance": 0.220037043094635,
+      "train_time_s": 10.579074382781982
+    },
+    {
+      "shape_id": "UPF_P0042.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.00737184239551425,
+      "chamfer_distance": 0.2597944736480713,
+      "train_time_s": 10.658593893051147
+    },
+    {
+      "shape_id": "UPF_P0043.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.011447017081081867,
+      "chamfer_distance": 0.14836899936199188,
+      "train_time_s": 10.649269104003906
+    },
+    {
+      "shape_id": "UPF_P0044.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.015373332425951958,
+      "chamfer_distance": 0.31807807087898254,
+      "train_time_s": 10.638373374938965
+    },
+    {
+      "shape_id": "UPF_P0046.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.01689193770289421,
+      "chamfer_distance": 0.30080756545066833,
+      "train_time_s": 10.605445623397827
+    },
+    {
+      "shape_id": "UPF_P0048.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010783994570374489,
+      "chamfer_distance": 0.17652365565299988,
+      "train_time_s": 10.623864889144897
+    },
+    {
+      "shape_id": "UPF_P0053.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008486496284604073,
+      "chamfer_distance": 0.20010432600975037,
+      "train_time_s": 10.672466278076172
+    },
+    {
+      "shape_id": "UPF_P0056.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.01664171926677227,
+      "chamfer_distance": 0.22697506844997406,
+      "train_time_s": 10.652143955230713
+    },
+    {
+      "shape_id": "UPF_P0057.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0057501099072396755,
+      "chamfer_distance": 0.12800489366054535,
+      "train_time_s": 10.692119359970093
+    },
+    {
+      "shape_id": "UPF_P0058.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010497665964066982,
+      "chamfer_distance": 0.25034499168395996,
+      "train_time_s": 10.630921363830566
+    },
+    {
+      "shape_id": "UPF_P0060.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0056044128723442554,
+      "chamfer_distance": 0.11708146333694458,
+      "train_time_s": 10.664783716201782
+    },
+    {
+      "shape_id": "UPF_P0061.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0074581122025847435,
+      "chamfer_distance": 0.09689468145370483,
+      "train_time_s": 10.632386207580566
+    },
+    {
+      "shape_id": "UPF_P0065.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007583935745060444,
+      "chamfer_distance": 0.24317127466201782,
+      "train_time_s": 10.666193723678589
+    },
+    {
+      "shape_id": "UPF_P0067.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.019015159457921982,
+      "chamfer_distance": 0.3058834671974182,
+      "train_time_s": 10.644607305526733
+    },
+    {
+      "shape_id": "UPF_P0070.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.021636657416820526,
+      "chamfer_distance": 0.49424928426742554,
+      "train_time_s": 10.673052310943604
+    },
+    {
+      "shape_id": "UPF_P0076.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009575516916811466,
+      "chamfer_distance": 0.15522360801696777,
+      "train_time_s": 10.648066520690918
+    },
+    {
+      "shape_id": "UPF_P0078.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.019015876576304436,
+      "chamfer_distance": 0.2606351971626282,
+      "train_time_s": 10.659515142440796
+    },
+    {
+      "shape_id": "UPF_P0082.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.005026298109441996,
+      "chamfer_distance": 0.14826783537864685,
+      "train_time_s": 10.637013673782349
+    },
+    {
+      "shape_id": "UPF_P0084.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.01109144277870655,
+      "chamfer_distance": 0.10963362455368042,
+      "train_time_s": 10.675482273101807
+    },
+    {
+      "shape_id": "UPF_P0089.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.011091070249676704,
+      "chamfer_distance": 0.2681499123573303,
+      "train_time_s": 10.648035287857056
+    },
+    {
+      "shape_id": "UPF_P0090.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009360715746879578,
+      "chamfer_distance": 0.29136136174201965,
+      "train_time_s": 10.671039819717407
+    },
+    {
+      "shape_id": "UPF_P0092.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.012215454131364822,
+      "chamfer_distance": 0.3688141107559204,
+      "train_time_s": 10.652488708496094
+    },
+    {
+      "shape_id": "UPF_P0098.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.004749035928398371,
+      "chamfer_distance": 0.2646186947822571,
+      "train_time_s": 10.639007091522217
+    },
+    {
+      "shape_id": "UPF_P0099.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010714907199144363,
+      "chamfer_distance": 0.25054603815078735,
+      "train_time_s": 10.633299350738525
+    },
+    {
+      "shape_id": "UPF_P0103.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0054376618936657906,
+      "chamfer_distance": 0.19412103295326233,
+      "train_time_s": 10.599965810775757
+    },
+    {
+      "shape_id": "UPF_P0106.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009028860367834568,
+      "chamfer_distance": 0.23987816274166107,
+      "train_time_s": 10.676337003707886
+    },
+    {
+      "shape_id": "UPF_P0108.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006431166548281908,
+      "chamfer_distance": 0.1991584748029709,
+      "train_time_s": 10.593290328979492
+    },
+    {
+      "shape_id": "UPF_P0117.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.012430761009454727,
+      "chamfer_distance": 0.09711963683366776,
+      "train_time_s": 10.633353233337402
+    },
+    {
+      "shape_id": "UPF_P0120.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.009217602200806141,
+      "chamfer_distance": 0.2835201323032379,
+      "train_time_s": 10.624873876571655
+    },
+    {
+      "shape_id": "UPF_P0123.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.005406040232628584,
+      "chamfer_distance": 0.18965241312980652,
+      "train_time_s": 10.684922218322754
+    },
+    {
+      "shape_id": "UPF_P0129.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007991015911102295,
+      "chamfer_distance": 0.13864506781101227,
+      "train_time_s": 10.614738941192627
+    },
+    {
+      "shape_id": "UPF_P0134.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.012322677299380302,
+      "chamfer_distance": 0.1590975672006607,
+      "train_time_s": 10.646510362625122
+    },
+    {
+      "shape_id": "UPF_P0135.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.00981132872402668,
+      "chamfer_distance": 0.11907139420509338,
+      "train_time_s": 10.613314390182495
+    },
+    {
+      "shape_id": "UPF_P0140.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.012142271734774113,
+      "chamfer_distance": 0.12514233589172363,
+      "train_time_s": 10.639912366867065
+    },
+    {
+      "shape_id": "UPF_P0142.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008446740917861462,
+      "chamfer_distance": 0.14783333241939545,
+      "train_time_s": 10.620686054229736
+    },
+    {
+      "shape_id": "UPF_P0143.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010219552554190159,
+      "chamfer_distance": 0.11171738058328629,
+      "train_time_s": 10.650207757949829
+    },
+    {
+      "shape_id": "UPF_P0148.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007559681311249733,
+      "chamfer_distance": 0.19868338108062744,
+      "train_time_s": 10.641281127929688
+    },
+    {
+      "shape_id": "UPF_P0153.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009177574887871742,
+      "chamfer_distance": 0.15979591012001038,
+      "train_time_s": 10.661754608154297
+    },
+    {
+      "shape_id": "UPF_P0156.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.00965309701859951,
+      "chamfer_distance": 0.12237812578678131,
+      "train_time_s": 10.624947309494019
+    },
+    {
+      "shape_id": "UPF_P0157.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006435580551624298,
+      "chamfer_distance": 0.2379833161830902,
+      "train_time_s": 10.657048463821411
+    },
+    {
+      "shape_id": "UPF_P0161.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009341112338006496,
+      "chamfer_distance": 0.11246192455291748,
+      "train_time_s": 10.646008729934692
+    },
+    {
+      "shape_id": "UPF_P0164.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007487316150218248,
+      "chamfer_distance": 0.13981305062770844,
+      "train_time_s": 10.66110110282898
+    },
+    {
+      "shape_id": "UPF_P0165.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006791139952838421,
+      "chamfer_distance": 0.14715178310871124,
+      "train_time_s": 10.61541748046875
+    },
+    {
+      "shape_id": "UPF_P0167.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.014519375748932362,
+      "chamfer_distance": 0.12733173370361328,
+      "train_time_s": 10.629595756530762
+    },
+    {
+      "shape_id": "UPF_P0169.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008100757375359535,
+      "chamfer_distance": 0.22066572308540344,
+      "train_time_s": 10.656147003173828
+    },
+    {
+      "shape_id": "UPF_P0171.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008706691674888134,
+      "chamfer_distance": 0.2413223683834076,
+      "train_time_s": 10.624051332473755
+    },
+    {
+      "shape_id": "UPF_P0171.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.010572725906968117,
+      "chamfer_distance": 0.17094671726226807,
+      "train_time_s": 10.683944940567017
+    },
+    {
+      "shape_id": "UPF_P0172.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.011654702015221119,
+      "chamfer_distance": 0.10431515425443649,
+      "train_time_s": 10.61852741241455
+    },
+    {
+      "shape_id": "UPF_P0175.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.009760040789842606,
+      "chamfer_distance": 0.2582361400127411,
+      "train_time_s": 10.68166708946228
+    },
+    {
+      "shape_id": "UPF_P0176.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006243301555514336,
+      "chamfer_distance": 0.09483145922422409,
+      "train_time_s": 10.62964391708374
+    },
+    {
+      "shape_id": "UPF_P0177.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.004656614735722542,
+      "chamfer_distance": 0.16805438697338104,
+      "train_time_s": 10.65189790725708
+    },
+    {
+      "shape_id": "UPF_P0178.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.011720443144440651,
+      "chamfer_distance": 0.15210774540901184,
+      "train_time_s": 10.613261222839355
+    },
+    {
+      "shape_id": "UPF_P0178.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.0055692316964268684,
+      "chamfer_distance": 0.2175750434398651,
+      "train_time_s": 10.675793886184692
+    },
+    {
+      "shape_id": "UPF_P0179.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006964067928493023,
+      "chamfer_distance": 0.127762570977211,
+      "train_time_s": 10.655686140060425
+    },
+    {
+      "shape_id": "UPF_P0181.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0076035987585783005,
+      "chamfer_distance": 0.2589176595211029,
+      "train_time_s": 10.670454502105713
+    },
+    {
+      "shape_id": "UPF_P0181.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.009603612124919891,
+      "chamfer_distance": 0.2202746868133545,
+      "train_time_s": 10.626760721206665
+    },
+    {
+      "shape_id": "UPF_P0188.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.011774374172091484,
+      "chamfer_distance": 0.2090688943862915,
+      "train_time_s": 10.673553466796875
+    },
+    {
+      "shape_id": "UPF_P0194.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008903322741389275,
+      "chamfer_distance": 0.1713654100894928,
+      "train_time_s": 10.636935710906982
+    },
+    {
+      "shape_id": "UPF_P0195.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0058519961312413216,
+      "chamfer_distance": 0.09681101888418198,
+      "train_time_s": 10.666062831878662
+    },
+    {
+      "shape_id": "UPF_P0196.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.005661224480718374,
+      "chamfer_distance": 0.19386425614356995,
+      "train_time_s": 10.622301578521729
+    },
+    {
+      "shape_id": "UPF_P0204.01_ID3",
+      "model_size": "medium",
+      "final_loss": 0.013401392847299576,
+      "chamfer_distance": 0.26916417479515076,
+      "train_time_s": 10.691599369049072
+    },
+    {
+      "shape_id": "UPF_P0206.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.006155209615826607,
+      "chamfer_distance": 0.15565964579582214,
+      "train_time_s": 10.662168502807617
+    },
+    {
+      "shape_id": "UPF_P0207.01_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010378878563642502,
+      "chamfer_distance": 0.25929009914398193,
+      "train_time_s": 10.650846719741821
+    },
+    {
+      "shape_id": "UPF_P0208.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.013170592486858368,
+      "chamfer_distance": 0.18620100617408752,
+      "train_time_s": 10.6826331615448
+    },
+    {
+      "shape_id": "UPF_P0211.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007135135121643543,
+      "chamfer_distance": 0.1709957718849182,
+      "train_time_s": 10.645116567611694
+    },
+    {
+      "shape_id": "UPF_P0215.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010598896071314812,
+      "chamfer_distance": 0.2148052603006363,
+      "train_time_s": 10.700584411621094
+    },
+    {
+      "shape_id": "UPF_P0221.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.014931021258234978,
+      "chamfer_distance": 0.23578982055187225,
+      "train_time_s": 10.642534255981445
+    },
+    {
+      "shape_id": "UPF_P0222.00_ID3",
+      "model_size": "medium",
+      "final_loss": 0.0057853152975440025,
+      "chamfer_distance": 0.2618606388568878,
+      "train_time_s": 10.709995746612549
+    },
+    {
+      "shape_id": "UPF_P0224.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.008551044389605522,
+      "chamfer_distance": 0.24647848308086395,
+      "train_time_s": 10.636642456054688
+    },
+    {
+      "shape_id": "UPF_P0229.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.016337646171450615,
+      "chamfer_distance": 0.24911177158355713,
+      "train_time_s": 10.704174280166626
+    },
+    {
+      "shape_id": "UPF_P0230.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.007869387045502663,
+      "chamfer_distance": 0.22285467386245728,
+      "train_time_s": 10.709673881530762
+    },
+    {
+      "shape_id": "UPF_P0232.01_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0069926646538078785,
+      "chamfer_distance": 0.13622909784317017,
+      "train_time_s": 10.713149070739746
+    },
+    {
+      "shape_id": "UPF_P0239.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.009666475467383862,
+      "chamfer_distance": 0.14624091982841492,
+      "train_time_s": 10.657589673995972
+    },
+    {
+      "shape_id": "UPF_P0258.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010081355459988117,
+      "chamfer_distance": 0.258465051651001,
+      "train_time_s": 10.71706748008728
+    },
+    {
+      "shape_id": "UPF_P0261.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.02137737348675728,
+      "chamfer_distance": 0.26269352436065674,
+      "train_time_s": 10.710095167160034
+    },
+    {
+      "shape_id": "UPF_P0266.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.026086604222655296,
+      "chamfer_distance": 0.31146669387817383,
+      "train_time_s": 10.721670150756836
+    },
+    {
+      "shape_id": "UPF_P0272.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.005481715779751539,
+      "chamfer_distance": 0.1359424740076065,
+      "train_time_s": 10.670814990997314
+    },
+    {
+      "shape_id": "UPF_P0277.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.017640434205532074,
+      "chamfer_distance": 0.354348361492157,
+      "train_time_s": 10.733311414718628
+    },
+    {
+      "shape_id": "UPF_P0280.00_ID2",
+      "model_size": "medium",
+      "final_loss": 0.009616006165742874,
+      "chamfer_distance": 0.28230708837509155,
+      "train_time_s": 10.692490577697754
+    },
+    {
+      "shape_id": "UPF_P0284.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010501228272914886,
+      "chamfer_distance": 0.2880074679851532,
+      "train_time_s": 10.72918152809143
+    },
+    {
+      "shape_id": "UPF_P0286.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.004748517647385597,
+      "chamfer_distance": 0.20982736349105835,
+      "train_time_s": 10.701411485671997
+    },
+    {
+      "shape_id": "UPF_P0290.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.0056421831250190735,
+      "chamfer_distance": 0.1897500902414322,
+      "train_time_s": 10.721380472183228
+    },
+    {
+      "shape_id": "UPF_P0311.00_ID1",
+      "model_size": "medium",
+      "final_loss": 0.010180293582379818,
+      "chamfer_distance": 0.10878021270036697,
+      "train_time_s": 10.751685857772827
+    },
+    {
+      "shape_id": "USFD_0001",
+      "model_size": "medium",
+      "final_loss": 0.0038551276084035635,
+      "chamfer_distance": 0.20544713735580444,
+      "train_time_s": 10.72260856628418
+    },
+    {
+      "shape_id": "USFD_0002",
+      "model_size": "medium",
+      "final_loss": 0.01753036491572857,
+      "chamfer_distance": 0.20317889750003815,
+      "train_time_s": 10.722240209579468
+    },
+    {
+      "shape_id": "USFD_0004",
+      "model_size": "medium",
+      "final_loss": 0.011789802461862564,
+      "chamfer_distance": 0.19113370776176453,
+      "train_time_s": 10.685987710952759
+    },
+    {
+      "shape_id": "USFD_0005",
+      "model_size": "medium",
+      "final_loss": 0.006769383326172829,
+      "chamfer_distance": 0.24647009372711182,
+      "train_time_s": 10.73891806602478
+    },
+    {
+      "shape_id": "USFD_0006",
+      "model_size": "medium",
+      "final_loss": 0.004662838764488697,
+      "chamfer_distance": 0.25119855999946594,
+      "train_time_s": 10.662158250808716
+    },
+    {
+      "shape_id": "USFD_0007",
+      "model_size": "medium",
+      "final_loss": 0.009452065452933311,
+      "chamfer_distance": 0.21896514296531677,
+      "train_time_s": 10.700159549713135
+    },
+    {
+      "shape_id": "USFD_0008",
+      "model_size": "medium",
+      "final_loss": 0.03097214177250862,
+      "chamfer_distance": 0.20584353804588318,
+      "train_time_s": 10.653053283691406
+    },
+    {
+      "shape_id": "USFD_0009",
+      "model_size": "medium",
+      "final_loss": 0.009435117244720459,
+      "chamfer_distance": 0.25780272483825684,
+      "train_time_s": 10.714400053024292
+    },
+    {
+      "shape_id": "USFD_0011",
+      "model_size": "medium",
+      "final_loss": 0.016973579302430153,
+      "chamfer_distance": 0.31882548332214355,
+      "train_time_s": 10.658747673034668
+    },
+    {
+      "shape_id": "USFD_0012",
+      "model_size": "medium",
+      "final_loss": 0.010233931243419647,
+      "chamfer_distance": 0.1554843783378601,
+      "train_time_s": 10.695124864578247
+    },
+    {
+      "shape_id": "USFD_0013",
+      "model_size": "medium",
+      "final_loss": 0.009394649416208267,
+      "chamfer_distance": 0.2337271273136139,
+      "train_time_s": 10.66181993484497
+    },
+    {
+      "shape_id": "USFD_0014",
+      "model_size": "medium",
+      "final_loss": 0.0049703046679496765,
+      "chamfer_distance": 0.17624840140342712,
+      "train_time_s": 10.675000429153442
+    },
+    {
+      "shape_id": "USFD_0016",
+      "model_size": "medium",
+      "final_loss": 0.007492474280297756,
+      "chamfer_distance": 0.12598423659801483,
+      "train_time_s": 10.605493545532227
+    },
+    {
+      "shape_id": "USFD_0018",
+      "model_size": "medium",
+      "final_loss": 0.015765175223350525,
+      "chamfer_distance": 0.1624641716480255,
+      "train_time_s": 10.65224027633667
+    },
+    {
+      "shape_id": "USFD_0019",
+      "model_size": "medium",
+      "final_loss": 0.012833477929234505,
+      "chamfer_distance": 0.2805934548377991,
+      "train_time_s": 10.642793893814087
+    },
+    {
+      "shape_id": "USFD_0020",
+      "model_size": "medium",
+      "final_loss": 0.013271590694785118,
+      "chamfer_distance": 0.20276451110839844,
+      "train_time_s": 10.668367385864258
+    },
+    {
+      "shape_id": "USFD_0021",
+      "model_size": "medium",
+      "final_loss": 0.007607174105942249,
+      "chamfer_distance": 0.12089463323354721,
+      "train_time_s": 10.63831090927124
+    },
+    {
+      "shape_id": "USFD_0022",
+      "model_size": "medium",
+      "final_loss": 0.01090996153652668,
+      "chamfer_distance": 0.20258605480194092,
+      "train_time_s": 10.610474348068237
+    },
+    {
+      "shape_id": "USFD_0023",
+      "model_size": "medium",
+      "final_loss": 0.007972936145961285,
+      "chamfer_distance": 0.25902092456817627,
+      "train_time_s": 10.679498672485352
+    },
+    {
+      "shape_id": "USFD_0024",
+      "model_size": "medium",
+      "final_loss": 0.007052040658891201,
+      "chamfer_distance": 0.16267576813697815,
+      "train_time_s": 10.648394584655762
+    },
+    {
+      "shape_id": "USFD_0025",
+      "model_size": "medium",
+      "final_loss": 0.008406875655055046,
+      "chamfer_distance": 0.1598743200302124,
+      "train_time_s": 10.666260480880737
+    },
+    {
+      "shape_id": "USFD_0026",
+      "model_size": "medium",
+      "final_loss": 0.008223326876759529,
+      "chamfer_distance": 0.11252714693546295,
+      "train_time_s": 10.622458457946777
+    },
+    {
+      "shape_id": "USFD_0027",
+      "model_size": "medium",
+      "final_loss": 0.0048858411610126495,
+      "chamfer_distance": 0.20199571549892426,
+      "train_time_s": 10.681145429611206
+    },
+    {
+      "shape_id": "USFD_0028",
+      "model_size": "medium",
+      "final_loss": 0.006476929411292076,
+      "chamfer_distance": 0.1750756800174713,
+      "train_time_s": 10.646878242492676
+    },
+    {
+      "shape_id": "USFD_0029",
+      "model_size": "medium",
+      "final_loss": 0.0076354919001460075,
+      "chamfer_distance": 0.1537308394908905,
+      "train_time_s": 10.668471574783325
+    },
+    {
+      "shape_id": "USFD_0030",
+      "model_size": "medium",
+      "final_loss": 0.006741698365658522,
+      "chamfer_distance": 0.14262329041957855,
+      "train_time_s": 10.60834550857544
+    },
+    {
+      "shape_id": "USFD_0031",
+      "model_size": "medium",
+      "final_loss": 0.00943669117987156,
+      "chamfer_distance": 0.1764320284128189,
+      "train_time_s": 10.670811891555786
+    },
+    {
+      "shape_id": "USFD_0032",
+      "model_size": "medium",
+      "final_loss": 0.015348382294178009,
+      "chamfer_distance": 0.11480115354061127,
+      "train_time_s": 10.654786825180054
+    },
+    {
+      "shape_id": "USFD_0033",
+      "model_size": "medium",
+      "final_loss": 0.009668178856372833,
+      "chamfer_distance": 0.22271078824996948,
+      "train_time_s": 10.697432279586792
+    },
+    {
+      "shape_id": "USFD_0035",
+      "model_size": "medium",
+      "final_loss": 0.009879455901682377,
+      "chamfer_distance": 0.11904899030923843,
+      "train_time_s": 10.64389967918396
+    },
+    {
+      "shape_id": "USFD_0036",
+      "model_size": "medium",
+      "final_loss": 0.007992499507963657,
+      "chamfer_distance": 0.11154576390981674,
+      "train_time_s": 10.665349245071411
+    },
+    {
+      "shape_id": "USFD_0038",
+      "model_size": "medium",
+      "final_loss": 0.01652532070875168,
+      "chamfer_distance": 0.9420506954193115,
+      "train_time_s": 10.697794914245605
+    },
+    {
+      "shape_id": "USFD_0040",
+      "model_size": "medium",
+      "final_loss": 0.013249175623059273,
+      "chamfer_distance": 0.286532461643219,
+      "train_time_s": 10.695074796676636
+    },
+    {
+      "shape_id": "USFD_0041",
+      "model_size": "medium",
+      "final_loss": 0.015238292515277863,
+      "chamfer_distance": 0.19520065188407898,
+      "train_time_s": 10.63912057876587
+    },
+    {
+      "shape_id": "USFD_0042",
+      "model_size": "medium",
+      "final_loss": 0.00653165765106678,
+      "chamfer_distance": 0.26214975118637085,
+      "train_time_s": 10.691641330718994
+    },
+    {
+      "shape_id": "USFD_0047",
+      "model_size": "medium",
+      "final_loss": 0.005967836827039719,
+      "chamfer_distance": 0.19102737307548523,
+      "train_time_s": 10.636273384094238
+    },
+    {
+      "shape_id": "USFD_0049",
+      "model_size": "medium",
+      "final_loss": 0.013482536189258099,
+      "chamfer_distance": 0.17368246614933014,
+      "train_time_s": 10.63442873954773
+    },
+    {
+      "shape_id": "USFD_0051",
+      "model_size": "medium",
+      "final_loss": 0.01214672066271305,
+      "chamfer_distance": 0.21279066801071167,
+      "train_time_s": 10.690888404846191
+    },
+    {
+      "shape_id": "USFD_0052",
+      "model_size": "medium",
+      "final_loss": 0.008549796417355537,
+      "chamfer_distance": 0.2115667462348938,
+      "train_time_s": 10.648462533950806
+    },
+    {
+      "shape_id": "USFD_0053",
+      "model_size": "medium",
+      "final_loss": 0.010503208264708519,
+      "chamfer_distance": 0.1218709945678711,
+      "train_time_s": 10.714287996292114
+    },
+    {
+      "shape_id": "USFD_0054",
+      "model_size": "medium",
+      "final_loss": 0.020330090075731277,
+      "chamfer_distance": 0.21069785952568054,
+      "train_time_s": 10.646363496780396
+    },
+    {
+      "shape_id": "USFD_0055",
+      "model_size": "medium",
+      "final_loss": 0.03305412083864212,
+      "chamfer_distance": 0.3557503819465637,
+      "train_time_s": 10.695711851119995
+    },
+    {
+      "shape_id": "USFD_0056",
+      "model_size": "medium",
+      "final_loss": 0.01245255395770073,
+      "chamfer_distance": 0.19236326217651367,
+      "train_time_s": 10.650949239730835
+    },
+    {
+      "shape_id": "USFD_0057",
+      "model_size": "medium",
+      "final_loss": 0.008506668731570244,
+      "chamfer_distance": 0.16480401158332825,
+      "train_time_s": 10.695382595062256
+    },
+    {
+      "shape_id": "USFD_0058",
+      "model_size": "medium",
+      "final_loss": 0.00873555801808834,
+      "chamfer_distance": 0.10760363936424255,
+      "train_time_s": 10.658630132675171
+    },
+    {
+      "shape_id": "USFD_0059",
+      "model_size": "medium",
+      "final_loss": 0.020039038732647896,
+      "chamfer_distance": 0.18969231843948364,
+      "train_time_s": 10.688877582550049
+    },
+    {
+      "shape_id": "USFD_0060",
+      "model_size": "medium",
+      "final_loss": 0.011332844384014606,
+      "chamfer_distance": 0.16912779211997986,
+      "train_time_s": 10.679663181304932
+    },
+    {
+      "shape_id": "USFD_UNIGE_0001",
+      "model_size": "medium",
+      "final_loss": 0.005934726446866989,
+      "chamfer_distance": 0.22221016883850098,
+      "train_time_s": 10.701780319213867
+    },
+    {
+      "shape_id": "USFD_UNIGE_0007",
+      "model_size": "medium",
+      "final_loss": 0.008180497214198112,
+      "chamfer_distance": 0.23516830801963806,
+      "train_time_s": 10.68078088760376
+    },
+    {
+      "shape_id": "USFD_UNIGE_0017",
+      "model_size": "medium",
+      "final_loss": 0.016969121992588043,
+      "chamfer_distance": 0.3393901586532593,
+      "train_time_s": 10.728612184524536
+    },
+    {
+      "shape_id": "USFD_UNIGE_0023",
+      "model_size": "medium",
+      "final_loss": 0.014780369587242603,
+      "chamfer_distance": 0.19315414130687714,
+      "train_time_s": 10.693300485610962
+    },
+    {
+      "shape_id": "USFD_UNIGE_0027",
+      "model_size": "medium",
+      "final_loss": 0.01716345176100731,
+      "chamfer_distance": 0.2837154269218445,
+      "train_time_s": 10.732967615127563
+    },
+    {
+      "shape_id": "USFD_UNIGE_0029",
+      "model_size": "medium",
+      "final_loss": 0.011896693147718906,
+      "chamfer_distance": 0.15672746300697327,
+      "train_time_s": 10.65662431716919
+    },
+    {
+      "shape_id": "USFD_UNIGE_0033",
+      "model_size": "medium",
+      "final_loss": 0.009444501250982285,
+      "chamfer_distance": 0.20381945371627808,
+      "train_time_s": 10.759321689605713
+    },
+    {
+      "shape_id": "USFD_UNIGE_0034",
+      "model_size": "medium",
+      "final_loss": 0.008551223203539848,
+      "chamfer_distance": 0.1516849845647812,
+      "train_time_s": 10.691880702972412
+    },
+    {
+      "shape_id": "USFD_UNIGE_0037",
+      "model_size": "medium",
+      "final_loss": 0.010834978893399239,
+      "chamfer_distance": 0.10504436492919922,
+      "train_time_s": 10.67125391960144
+    },
+    {
+      "shape_id": "USFD_UNIGE_0038",
+      "model_size": "medium",
+      "final_loss": 0.012688547372817993,
+      "chamfer_distance": 0.19636544585227966,
+      "train_time_s": 10.708825588226318
+    },
+    {
+      "shape_id": "USFD_UNIGE_0042",
+      "model_size": "medium",
+      "final_loss": 0.010065455920994282,
+      "chamfer_distance": 0.33522331714630127,
+      "train_time_s": 10.71413278579712
+    },
+    {
+      "shape_id": "C0001",
+      "model_size": "medium",
+      "final_loss": 0.01611904799938202,
+      "chamfer_distance": 0.14767694473266602,
+      "train_time_s": 10.735996961593628
+    },
+    {
+      "shape_id": "C0002",
+      "model_size": "medium",
+      "final_loss": 0.013895433396100998,
+      "chamfer_distance": 0.12405473738908768,
+      "train_time_s": 10.686160326004028
+    },
+    {
+      "shape_id": "C0003",
+      "model_size": "medium",
+      "final_loss": 0.0117605309933424,
+      "chamfer_distance": 0.2562604248523712,
+      "train_time_s": 10.746136665344238
+    },
+    {
+      "shape_id": "C0005",
+      "model_size": "medium",
+      "final_loss": 0.007427505683153868,
+      "chamfer_distance": 0.13517846167087555,
+      "train_time_s": 10.694055080413818
+    },
+    {
+      "shape_id": "C0006",
+      "model_size": "medium",
+      "final_loss": 0.01218417752534151,
+      "chamfer_distance": 0.21170112490653992,
+      "train_time_s": 10.784752368927002
+    },
+    {
+      "shape_id": "C0007a",
+      "model_size": "medium",
+      "final_loss": 0.009077351540327072,
+      "chamfer_distance": 0.10721568763256073,
+      "train_time_s": 10.70696473121643
+    },
+    {
+      "shape_id": "C0008",
+      "model_size": "medium",
+      "final_loss": 0.009397472254931927,
+      "chamfer_distance": 0.2407967746257782,
+      "train_time_s": 10.745126724243164
+    },
+    {
+      "shape_id": "C0009",
+      "model_size": "medium",
+      "final_loss": 0.01134194154292345,
+      "chamfer_distance": 0.13541407883167267,
+      "train_time_s": 10.700893640518188
+    },
+    {
+      "shape_id": "C0010",
+      "model_size": "medium",
+      "final_loss": 0.007339163683354855,
+      "chamfer_distance": 0.12825588881969452,
+      "train_time_s": 10.721074104309082
+    },
+    {
+      "shape_id": "C0011",
+      "model_size": "medium",
+      "final_loss": 0.010365133173763752,
+      "chamfer_distance": 0.21071259677410126,
+      "train_time_s": 10.655781269073486
+    },
+    {
+      "shape_id": "C0012",
+      "model_size": "medium",
+      "final_loss": 0.010993296280503273,
+      "chamfer_distance": 0.14965465664863586,
+      "train_time_s": 10.70280933380127
+    },
+    {
+      "shape_id": "C0013",
+      "model_size": "medium",
+      "final_loss": 0.009422275237739086,
+      "chamfer_distance": 0.15829810500144958,
+      "train_time_s": 10.659548044204712
+    },
+    {
+      "shape_id": "C0014",
+      "model_size": "medium",
+      "final_loss": 0.011071158573031425,
+      "chamfer_distance": 0.19706839323043823,
+      "train_time_s": 10.73555612564087
+    },
+    {
+      "shape_id": "C0015",
+      "model_size": "medium",
+      "final_loss": 0.0060214330442249775,
+      "chamfer_distance": 0.1693965345621109,
+      "train_time_s": 10.684827327728271
+    },
+    {
+      "shape_id": "C0016",
+      "model_size": "medium",
+      "final_loss": 0.00553801329806447,
+      "chamfer_distance": 0.19069595634937286,
+      "train_time_s": 10.73124623298645
+    },
+    {
+      "shape_id": "C0017",
+      "model_size": "medium",
+      "final_loss": 0.01171884499490261,
+      "chamfer_distance": 0.17481255531311035,
+      "train_time_s": 10.703094005584717
+    },
+    {
+      "shape_id": "C0018",
+      "model_size": "medium",
+      "final_loss": 0.007451923098415136,
+      "chamfer_distance": 0.1814325749874115,
+      "train_time_s": 10.662355899810791
+    },
+    {
+      "shape_id": "C0019",
+      "model_size": "medium",
+      "final_loss": 0.010311232879757881,
+      "chamfer_distance": 0.2747000455856323,
+      "train_time_s": 10.731115818023682
+    },
+    {
+      "shape_id": "C0020",
+      "model_size": "medium",
+      "final_loss": 0.007727017626166344,
+      "chamfer_distance": 0.14332887530326843,
+      "train_time_s": 10.683544397354126
+    },
+    {
+      "shape_id": "C0021",
+      "model_size": "medium",
+      "final_loss": 0.02236022800207138,
+      "chamfer_distance": 0.2774544358253479,
+      "train_time_s": 10.712351322174072
+    },
+    {
+      "shape_id": "C0023",
+      "model_size": "medium",
+      "final_loss": 0.021068166941404343,
+      "chamfer_distance": 0.20309481024742126,
+      "train_time_s": 10.674140691757202
+    },
+    {
+      "shape_id": "C0024",
+      "model_size": "medium",
+      "final_loss": 0.008319247514009476,
+      "chamfer_distance": 0.21180996298789978,
+      "train_time_s": 10.747151851654053
+    },
+    {
+      "shape_id": "C0025a",
+      "model_size": "medium",
+      "final_loss": 0.008824917487800121,
+      "chamfer_distance": 0.12102551013231277,
+      "train_time_s": 10.65068769454956
+    },
+    {
+      "shape_id": "C0026",
+      "model_size": "medium",
+      "final_loss": 0.007430470548570156,
+      "chamfer_distance": 0.2151237428188324,
+      "train_time_s": 10.734354734420776
+    },
+    {
+      "shape_id": "C0027",
+      "model_size": "medium",
+      "final_loss": 0.01123093068599701,
+      "chamfer_distance": 0.16073019802570343,
+      "train_time_s": 10.68074893951416
+    },
+    {
+      "shape_id": "C0028a",
+      "model_size": "medium",
+      "final_loss": 0.012190956622362137,
+      "chamfer_distance": 0.2209719717502594,
+      "train_time_s": 10.730592250823975
+    },
+    {
+      "shape_id": "C0028b",
+      "model_size": "medium",
+      "final_loss": 0.0050480300560593605,
+      "chamfer_distance": 0.2120898962020874,
+      "train_time_s": 10.674809217453003
+    },
+    {
+      "shape_id": "C0029",
+      "model_size": "medium",
+      "final_loss": 0.010803116485476494,
+      "chamfer_distance": 0.16365835070610046,
+      "train_time_s": 10.722715139389038
+    },
+    {
+      "shape_id": "C0030",
+      "model_size": "medium",
+      "final_loss": 0.009687497280538082,
+      "chamfer_distance": 0.23030568659305573,
+      "train_time_s": 10.662727355957031
+    },
+    {
+      "shape_id": "C0031",
+      "model_size": "medium",
+      "final_loss": 0.006325325462967157,
+      "chamfer_distance": 0.10657311975955963,
+      "train_time_s": 10.718388795852661
+    },
+    {
+      "shape_id": "C0032",
+      "model_size": "medium",
+      "final_loss": 0.013327980414032936,
+      "chamfer_distance": 0.19569236040115356,
+      "train_time_s": 10.70166015625
+    },
+    {
+      "shape_id": "C0033",
+      "model_size": "medium",
+      "final_loss": 0.006182226352393627,
+      "chamfer_distance": 0.1882980912923813,
+      "train_time_s": 10.736812114715576
+    },
+    {
+      "shape_id": "C0034",
+      "model_size": "medium",
+      "final_loss": 0.008842596784234047,
+      "chamfer_distance": 0.30709123611450195,
+      "train_time_s": 10.695788383483887
+    },
+    {
+      "shape_id": "C0035",
+      "model_size": "medium",
+      "final_loss": 0.015160374343395233,
+      "chamfer_distance": 0.21852880716323853,
+      "train_time_s": 10.746046304702759
+    },
+    {
+      "shape_id": "C0036",
+      "model_size": "medium",
+      "final_loss": 0.007059776224195957,
+      "chamfer_distance": 0.1191224679350853,
+      "train_time_s": 10.67315149307251
+    },
+    {
+      "shape_id": "C0037",
+      "model_size": "medium",
+      "final_loss": 0.006889372132718563,
+      "chamfer_distance": 0.14244860410690308,
+      "train_time_s": 10.682707786560059
+    },
+    {
+      "shape_id": "C0038",
+      "model_size": "medium",
+      "final_loss": 0.008104857057332993,
+      "chamfer_distance": 0.26132676005363464,
+      "train_time_s": 10.720664978027344
+    },
+    {
+      "shape_id": "C0039a",
+      "model_size": "medium",
+      "final_loss": 0.007450729142874479,
+      "chamfer_distance": 0.14250515401363373,
+      "train_time_s": 10.688761472702026
+    },
+    {
+      "shape_id": "C0040",
+      "model_size": "medium",
+      "final_loss": 0.006067029200494289,
+      "chamfer_distance": 0.14634977281093597,
+      "train_time_s": 10.73758840560913
+    },
+    {
+      "shape_id": "C0041",
+      "model_size": "medium",
+      "final_loss": 0.008784495294094086,
+      "chamfer_distance": 0.30775386095046997,
+      "train_time_s": 10.68355107307434
+    },
+    {
+      "shape_id": "C0042",
+      "model_size": "medium",
+      "final_loss": 0.00724710151553154,
+      "chamfer_distance": 0.1569443643093109,
+      "train_time_s": 10.73373031616211
+    },
+    {
+      "shape_id": "C0043",
+      "model_size": "medium",
+      "final_loss": 0.011225396767258644,
+      "chamfer_distance": 0.2978895306587219,
+      "train_time_s": 10.717172861099243
+    },
+    {
+      "shape_id": "C0044",
+      "model_size": "medium",
+      "final_loss": 0.003821183927357197,
+      "chamfer_distance": 0.13733051717281342,
+      "train_time_s": 10.721556186676025
+    },
+    {
+      "shape_id": "C0045",
+      "model_size": "medium",
+      "final_loss": 0.004905019886791706,
+      "chamfer_distance": 0.15238001942634583,
+      "train_time_s": 10.709068536758423
+    },
+    {
+      "shape_id": "C0046",
+      "model_size": "medium",
+      "final_loss": 0.007199928164482117,
+      "chamfer_distance": 0.212211012840271,
+      "train_time_s": 10.73910665512085
+    },
+    {
+      "shape_id": "C0047",
+      "model_size": "medium",
+      "final_loss": 0.006579888053238392,
+      "chamfer_distance": 0.12801532447338104,
+      "train_time_s": 10.702854871749878
+    },
+    {
+      "shape_id": "C0048",
+      "model_size": "medium",
+      "final_loss": 0.016351968050003052,
+      "chamfer_distance": 0.2847563624382019,
+      "train_time_s": 10.745346546173096
+    },
+    {
+      "shape_id": "C0049a",
+      "model_size": "medium",
+      "final_loss": 0.010775960981845856,
+      "chamfer_distance": 0.17696262896060944,
+      "train_time_s": 10.682140827178955
+    },
+    {
+      "shape_id": "C0050",
+      "model_size": "medium",
+      "final_loss": 0.01008786540478468,
+      "chamfer_distance": 0.18606767058372498,
+      "train_time_s": 10.762443780899048
+    },
+    {
+      "shape_id": "C0051",
+      "model_size": "medium",
+      "final_loss": 0.010807232931256294,
+      "chamfer_distance": 0.15280050039291382,
+      "train_time_s": 10.696446180343628
+    },
+    {
+      "shape_id": "C0052",
+      "model_size": "medium",
+      "final_loss": 0.00904899463057518,
+      "chamfer_distance": 0.19329479336738586,
+      "train_time_s": 10.772112369537354
+    },
+    {
+      "shape_id": "C0053",
+      "model_size": "medium",
+      "final_loss": 0.007302198559045792,
+      "chamfer_distance": 0.18311241269111633,
+      "train_time_s": 10.704946041107178
+    },
+    {
+      "shape_id": "C0054",
+      "model_size": "medium",
+      "final_loss": 0.004031184129416943,
+      "chamfer_distance": 0.16877475380897522,
+      "train_time_s": 10.77210021018982
+    },
+    {
+      "shape_id": "C0055",
+      "model_size": "medium",
+      "final_loss": 0.006232785992324352,
+      "chamfer_distance": 0.11978040635585785,
+      "train_time_s": 10.738319635391235
+    },
+    {
+      "shape_id": "C0056",
+      "model_size": "medium",
+      "final_loss": 0.006382953841239214,
+      "chamfer_distance": 0.20681503415107727,
+      "train_time_s": 10.713674783706665
+    },
+    {
+      "shape_id": "C0057a",
+      "model_size": "medium",
+      "final_loss": 0.011225572787225246,
+      "chamfer_distance": 0.13255935907363892,
+      "train_time_s": 10.74059247970581
+    },
+    {
+      "shape_id": "C0057b",
+      "model_size": "medium",
+      "final_loss": 0.0108535997569561,
+      "chamfer_distance": 0.22584223747253418,
+      "train_time_s": 10.722127676010132
+    },
+    {
+      "shape_id": "C0058",
+      "model_size": "medium",
+      "final_loss": 0.008246309123933315,
+      "chamfer_distance": 0.14433781802654266,
+      "train_time_s": 10.76145625114441
+    },
+    {
+      "shape_id": "C0059",
+      "model_size": "medium",
+      "final_loss": 0.008483613841235638,
+      "chamfer_distance": 0.13701502978801727,
+      "train_time_s": 10.723380327224731
+    },
+    {
+      "shape_id": "C0060",
+      "model_size": "medium",
+      "final_loss": 0.008993083611130714,
+      "chamfer_distance": 0.20908904075622559,
+      "train_time_s": 10.76151418685913
+    },
+    {
+      "shape_id": "C0061",
+      "model_size": "medium",
+      "final_loss": 0.009766275063157082,
+      "chamfer_distance": 0.12216058373451233,
+      "train_time_s": 10.735188007354736
+    },
+    {
+      "shape_id": "C0062",
+      "model_size": "medium",
+      "final_loss": 0.008608827367424965,
+      "chamfer_distance": 0.17426279187202454,
+      "train_time_s": 10.776468276977539
+    },
+    {
+      "shape_id": "C0063",
+      "model_size": "medium",
+      "final_loss": 0.007568926550447941,
+      "chamfer_distance": 0.2298867106437683,
+      "train_time_s": 10.714496850967407
+    },
+    {
+      "shape_id": "C0064",
+      "model_size": "medium",
+      "final_loss": 0.015424758195877075,
+      "chamfer_distance": 0.10846054553985596,
+      "train_time_s": 10.766928672790527
+    },
+    {
+      "shape_id": "C0065",
+      "model_size": "medium",
+      "final_loss": 0.009977098554372787,
+      "chamfer_distance": 0.23254430294036865,
+      "train_time_s": 10.771965742111206
+    },
+    {
+      "shape_id": "C0066",
+      "model_size": "medium",
+      "final_loss": 0.009263193234801292,
+      "chamfer_distance": 0.15484905242919922,
+      "train_time_s": 10.792576551437378
+    },
+    {
+      "shape_id": "C0067",
+      "model_size": "medium",
+      "final_loss": 0.008351622149348259,
+      "chamfer_distance": 0.17972423136234283,
+      "train_time_s": 10.737332344055176
+    },
+    {
+      "shape_id": "C0068",
+      "model_size": "medium",
+      "final_loss": 0.021943092346191406,
+      "chamfer_distance": 0.28108981251716614,
+      "train_time_s": 10.770402431488037
+    },
+    {
+      "shape_id": "C0069",
+      "model_size": "medium",
+      "final_loss": 0.005968887358903885,
+      "chamfer_distance": 0.1274111568927765,
+      "train_time_s": 10.732838153839111
+    },
+    {
+      "shape_id": "C0070",
+      "model_size": "medium",
+      "final_loss": 0.028710030019283295,
+      "chamfer_distance": 0.7049090266227722,
+      "train_time_s": 10.796864986419678
+    },
+    {
+      "shape_id": "C0071",
+      "model_size": "medium",
+      "final_loss": 0.011028573848307133,
+      "chamfer_distance": 0.2066732943058014,
+      "train_time_s": 10.69469690322876
+    },
+    {
+      "shape_id": "C0072",
+      "model_size": "medium",
+      "final_loss": 0.010968893766403198,
+      "chamfer_distance": 0.1702272891998291,
+      "train_time_s": 10.76044750213623
+    },
+    {
+      "shape_id": "C0073",
+      "model_size": "medium",
+      "final_loss": 0.008821592666208744,
+      "chamfer_distance": 0.24690261483192444,
+      "train_time_s": 10.7243070602417
+    },
+    {
+      "shape_id": "C0074a",
+      "model_size": "medium",
+      "final_loss": 0.007505158893764019,
+      "chamfer_distance": 0.09470102190971375,
+      "train_time_s": 10.727044343948364
+    },
+    {
+      "shape_id": "C0074b",
+      "model_size": "medium",
+      "final_loss": 0.0073955608531832695,
+      "chamfer_distance": 0.21052439510822296,
+      "train_time_s": 10.745269298553467
+    },
+    {
+      "shape_id": "C0075",
+      "model_size": "medium",
+      "final_loss": 0.0087546706199646,
+      "chamfer_distance": 0.10952168703079224,
+      "train_time_s": 10.731050252914429
+    },
+    {
+      "shape_id": "C0076",
+      "model_size": "medium",
+      "final_loss": 0.006750869564712048,
+      "chamfer_distance": 0.10914857685565948,
+      "train_time_s": 10.758086442947388
+    },
+    {
+      "shape_id": "C0077",
+      "model_size": "medium",
+      "final_loss": 0.011814158409833908,
+      "chamfer_distance": 0.2679198086261749,
+      "train_time_s": 10.74662733078003
+    },
+    {
+      "shape_id": "C0078",
+      "model_size": "medium",
+      "final_loss": 0.0060853599570691586,
+      "chamfer_distance": 0.1926584094762802,
+      "train_time_s": 10.788160562515259
+    },
+    {
+      "shape_id": "C0079",
+      "model_size": "medium",
+      "final_loss": 0.0074762278236448765,
+      "chamfer_distance": 0.19254405796527863,
+      "train_time_s": 10.731456518173218
+    },
+    {
+      "shape_id": "C0080",
+      "model_size": "medium",
+      "final_loss": 0.004886760376393795,
+      "chamfer_distance": 0.2057107388973236,
+      "train_time_s": 10.817403078079224
+    },
+    {
+      "shape_id": "C0081",
+      "model_size": "medium",
+      "final_loss": 0.010063097812235355,
+      "chamfer_distance": 0.22162577509880066,
+      "train_time_s": 10.773281574249268
+    },
+    {
+      "shape_id": "C0082",
+      "model_size": "medium",
+      "final_loss": 0.008449823595583439,
+      "chamfer_distance": 0.10762817412614822,
+      "train_time_s": 10.787958145141602
+    },
+    {
+      "shape_id": "C0083",
+      "model_size": "medium",
+      "final_loss": 0.011914841830730438,
+      "chamfer_distance": 0.135869562625885,
+      "train_time_s": 10.741696834564209
+    },
+    {
+      "shape_id": "C0084",
+      "model_size": "medium",
+      "final_loss": 0.006934414152055979,
+      "chamfer_distance": 0.24677041172981262,
+      "train_time_s": 10.770388126373291
+    },
+    {
+      "shape_id": "C0085",
+      "model_size": "medium",
+      "final_loss": 0.008483096957206726,
+      "chamfer_distance": 0.11204627901315689,
+      "train_time_s": 10.77171778678894
+    },
+    {
+      "shape_id": "C0086",
+      "model_size": "medium",
+      "final_loss": 0.010028352960944176,
+      "chamfer_distance": 0.18794360756874084,
+      "train_time_s": 10.771687507629395
+    },
+    {
+      "shape_id": "C0087a",
+      "model_size": "medium",
+      "final_loss": 0.008147325366735458,
+      "chamfer_distance": 0.2564394176006317,
+      "train_time_s": 10.744089603424072
+    },
+    {
+      "shape_id": "C0088a",
+      "model_size": "medium",
+      "final_loss": 0.006301429122686386,
+      "chamfer_distance": 0.19139286875724792,
+      "train_time_s": 10.793995380401611
+    },
+    {
+      "shape_id": "C0088b",
+      "model_size": "medium",
+      "final_loss": 0.00626660231500864,
+      "chamfer_distance": 0.14194820821285248,
+      "train_time_s": 10.767288446426392
+    },
+    {
+      "shape_id": "C0089",
+      "model_size": "medium",
+      "final_loss": 0.007715005427598953,
+      "chamfer_distance": 0.22500663995742798,
+      "train_time_s": 10.800735473632812
+    },
+    {
+      "shape_id": "C0090",
+      "model_size": "medium",
+      "final_loss": 0.007848149165511131,
+      "chamfer_distance": 0.24123036861419678,
+      "train_time_s": 10.774480819702148
+    },
+    {
+      "shape_id": "C0091",
+      "model_size": "medium",
+      "final_loss": 0.009493769146502018,
+      "chamfer_distance": 0.20656660199165344,
+      "train_time_s": 10.75776219367981
+    },
+    {
+      "shape_id": "C0092",
+      "model_size": "medium",
+      "final_loss": 0.0058586327359080315,
+      "chamfer_distance": 0.1363983303308487,
+      "train_time_s": 10.787030935287476
+    },
+    {
+      "shape_id": "C0093",
+      "model_size": "medium",
+      "final_loss": 0.005228453315794468,
+      "chamfer_distance": 0.1312212347984314,
+      "train_time_s": 10.795798540115356
+    },
+    {
+      "shape_id": "C0094",
+      "model_size": "medium",
+      "final_loss": 0.008313905447721481,
+      "chamfer_distance": 0.23994740843772888,
+      "train_time_s": 10.81575083732605
+    },
+    {
+      "shape_id": "C0095",
+      "model_size": "medium",
+      "final_loss": 0.01608104072511196,
+      "chamfer_distance": 0.31401026248931885,
+      "train_time_s": 10.767435073852539
+    },
+    {
+      "shape_id": "C0096",
+      "model_size": "medium",
+      "final_loss": 0.011989494785666466,
+      "chamfer_distance": 0.15654093027114868,
+      "train_time_s": 10.794933795928955
+    },
+    {
+      "shape_id": "C0097",
+      "model_size": "medium",
+      "final_loss": 0.01182072889059782,
+      "chamfer_distance": 0.23159438371658325,
+      "train_time_s": 10.783873796463013
+    },
+    {
+      "shape_id": "C0098",
+      "model_size": "medium",
+      "final_loss": 0.011356588453054428,
+      "chamfer_distance": 0.1424998790025711,
+      "train_time_s": 10.82748293876648
+    },
+    {
+      "shape_id": "C0099",
+      "model_size": "medium",
+      "final_loss": 0.006543565075844526,
+      "chamfer_distance": 0.2075665444135666,
+      "train_time_s": 10.76802945137024
+    }
+  ]
+}

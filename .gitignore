@@ -34,3 +34,14 @@ results*/*
 !results*/
 !results*/*.json
 !results*/*.png
+
+# --- Model checkpoints: keep the final "best" ones, exclude the rest ---
+# Exclude the huge Stage-1 reconstruction folder (1.4G of epoch checkpoints)
+models/reconstruction/
+# Exclude throwaway test runs
+models/*_test/
+models/*_test2/
+# Un-ignore the final best checkpoints (each ~13MB, safe for git)
+!models/
+!models/*/
+!models/**/best*.pt
