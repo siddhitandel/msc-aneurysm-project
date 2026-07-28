@@ -6,10 +6,6 @@ A deep generative model that learns the 3D shape space of intracranial
 (brain) aneurysms, for shape analysis, synthetic shape generation, and a study
 of whether generated shapes can augment rupture-risk prediction.
 
-- **Author:** Siddhi Tandel
-- **Supervisor:** Dr Toni Lassila
-- **Assessor:** Dr Rafael Kuffner dos Anjos
-
 ---
 
 ## Overview
