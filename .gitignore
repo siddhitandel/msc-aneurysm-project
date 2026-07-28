@@ -45,3 +45,11 @@ models/*_test2/
 !models/
 !models/*/
 !models/**/best*.pt
+
+# --- Model checkpoints: keep the final "best" ones, exclude the rest ---
+models/reconstruction/
+models/*_test/
+models/*_test2/
+!models/
+!models/*/
+!models/**/best*.pt
