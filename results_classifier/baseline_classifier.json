@@ -1,0 +1,25 @@
+{
+  "encoder_mode": "vae",
+  "n_train": 514,
+  "n_train_ruptured": 189,
+  "n_test": 111,
+  "n_test_ruptured": 37,
+  "best_val_auc": 0.6723809523809523,
+  "test": {
+    "accuracy": 0.6936936936936937,
+    "balanced_accuracy": 0.6283783783783784,
+    "f1": 0.48484848484848486,
+    "auc": 0.7242512783053323,
+    "confusion_matrix": [
+      [
+        61,
+        13
+      ],
+      [
+        21,
+        16
+      ]
+    ]
+  },
+  "class_weighting": true
+}

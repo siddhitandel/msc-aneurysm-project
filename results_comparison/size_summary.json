@@ -1,0 +1,90 @@
+{
+  "real_median_volume": 1.0200571690109523,
+  "models": {
+    "vae": {
+      "raw": {
+        "max_diameter": {
+          "median": 1.0863811395322145,
+          "ratio_to_real": 0.6452864036131136,
+          "ks_pvalue": 8.256632840361109e-10
+        },
+        "equiv_diameter": {
+          "median": 0.8145598821693939,
+          "ratio_to_real": 0.652218765457605,
+          "ks_pvalue": 2.380538940778526e-06
+        },
+        "volume": {
+          "median": 0.28298777395923114,
+          "ratio_to_real": 0.27742344476260355,
+          "ks_pvalue": 2.380538940778526e-06
+        },
+        "surface_area": {
+          "median": 2.493517227460065,
+          "ratio_to_real": 0.45623927867228387,
+          "ks_pvalue": 7.574730045700375e-07
+        },
+        "bbox_diagonal": {
+          "median": 1.5506359559267582,
+          "ratio_to_real": 0.6580834842398536,
+          "ks_pvalue": 2.5972456893906314e-08
+        }
+      },
+      "level_offset": {
+        "max_diameter": {
+          "median": 1.353129944327594,
+          "ratio_to_real": 0.8037293023812422,
+          "ks_pvalue": 3.0459660350937537e-06
+        },
+        "equiv_diameter": {
+          "median": 1.1266355806956592,
+          "ratio_to_real": 0.9020980331181163,
+          "ks_pvalue": 0.05990718543746695
+        },
+        "volume": {
+          "median": 0.7487709909140372,
+          "ratio_to_real": 0.7340480640962482,
+          "ks_pvalue": 0.05990718543746695
+        },
+        "surface_area": {
+          "median": 4.221055320600297,
+          "ratio_to_real": 0.772327222566714,
+          "ks_pvalue": 0.0934631681165702
+        },
+        "bbox_diagonal": {
+          "median": 2.015424798225097,
+          "ratio_to_real": 0.8553379459375972,
+          "ks_pvalue": 0.0007207613352632676
+        }
+      },
+      "volume_scaled": {
+        "max_diameter": {
+          "median": 1.6847799993269645,
+          "ratio_to_real": 1.000722110394078,
+          "ks_pvalue": 0.20272130913994718
+        },
+        "equiv_diameter": {
+          "median": 1.248941116751738,
+          "ratio_to_real": 1.0000281761085583,
+          "ks_pvalue": 0.0015961092104627064
+        },
+        "volume": {
+          "median": 1.0200571690109523,
+          "ratio_to_real": 0.9999999990196627,
+          "ks_pvalue": 0.0015961092104627064
+        },
+        "surface_area": {
+          "median": 5.776484451852953,
+          "ratio_to_real": 1.0569243599169247,
+          "ks_pvalue": 0.020721869080909366
+        },
+        "bbox_diagonal": {
+          "median": 2.3140279732479305,
+          "ratio_to_real": 0.9820638980045765,
+          "ks_pvalue": 0.24248319969880114
+        }
+      }
+    },
+    "plain_ae": {},
+    "beta_vae_low": {}
+  }
+}

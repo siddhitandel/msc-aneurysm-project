@@ -1,13 +1,36 @@
-cat > .gitignore << 'EOF'
+# Large data — not ours to redistribute, and too big
 data/
-models/
-results*/
-logs/
+6678442/
 *.npz
+*.vtp
+
+# Trained models / checkpoints (1.5G — never commit)
+models/
 *.pt
+*.pth
+*.ckpt
+
+# Big mesh exports
+*.stl
 *.obj
-*.pdf
+
+# Logs
+logs/
+*.log
+*.err
+
+# Python cruft
 __pycache__/
 *.pyc
-6678442/
-EOF
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Keep small result summaries + figures (exceptions below)
+results*/*
+!results*/
+!results*/*.json
+!results*/*.png

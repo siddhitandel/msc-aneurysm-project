@@ -1,0 +1,15 @@
+{
+  "real_stats": {
+    "mean_volume": 3.469158172607422,
+    "std_volume": 1.0040980577468872,
+    "mean_spread": 0.7326666712760925,
+    "std_spread": 0.08194641768932343
+  },
+  "generated_stats": {
+    "mean_volume": 1.3572044372558594,
+    "std_volume": 1.8018736839294434,
+    "mean_spread": 0.3631117641925812,
+    "std_spread": 0.2352680265903473
+  },
+  "n_generated": 6
+}

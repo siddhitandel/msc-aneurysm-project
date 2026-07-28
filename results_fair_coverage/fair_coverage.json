@@ -1,0 +1,94 @@
+{
+  "ICA": {
+    "unconditional": {
+      "COV": 0.3333333333333333,
+      "MMD": 0.21813102026547473,
+      "COV_max": 0.7407407407407407,
+      "COV_random": 0.5265388036905176,
+      "COV_norm": 0.633065086555816,
+      "n_gen": 40,
+      "n_real": 54
+    },
+    "conditional": {
+      "COV": 0.35185185185185186,
+      "MMD": 0.2112862467793411,
+      "COV_max": 0.7407407407407407,
+      "COV_random": 0.5265388036905176,
+      "COV_norm": 0.6682353691422502,
+      "n_gen": 40,
+      "n_real": 54
+    },
+    "delta_COV_pct": 1.8518518518518545
+  },
+  "MCA": {
+    "unconditional": {
+      "COV": 0.4,
+      "MMD": 0.21156232378658657,
+      "COV_max": 1.0,
+      "COV_random": 0.7423265174353544,
+      "COV_norm": 0.5388464383327571,
+      "n_gen": 40,
+      "n_real": 30
+    },
+    "conditional": {
+      "COV": 0.4,
+      "MMD": 0.20782078026572476,
+      "COV_max": 1.0,
+      "COV_random": 0.7423265174353544,
+      "COV_norm": 0.5388464383327571,
+      "n_gen": 40,
+      "n_real": 30
+    },
+    "delta_COV_pct": 0.0
+  },
+  "ACA_ACom": {
+    "unconditional": {
+      "COV": 0.6111111111111112,
+      "MMD": 0.22102780195837948,
+      "COV_max": 1.0,
+      "COV_random": 0.898361873519741,
+      "COV_norm": 0.6802504971819492,
+      "n_gen": 40,
+      "n_real": 18
+    },
+    "conditional": {
+      "COV": 0.7222222222222222,
+      "MMD": 0.21262371128218008,
+      "COV_max": 1.0,
+      "COV_random": 0.898361873519741,
+      "COV_norm": 0.8039324057604854,
+      "n_gen": 40,
+      "n_real": 18
+    },
+    "delta_COV_pct": 11.111111111111105
+  },
+  "Posterior": {
+    "unconditional": {
+      "COV": 0.5555555555555556,
+      "MMD": 0.2055905444855324,
+      "COV_max": 1.0,
+      "COV_random": 0.9910071137086219,
+      "COV_norm": 0.5605969400931073,
+      "n_gen": 40,
+      "n_real": 9
+    },
+    "conditional": {
+      "COV": 0.6666666666666666,
+      "MMD": 0.2021183519867263,
+      "COV_max": 1.0,
+      "COV_random": 0.9910071137086219,
+      "COV_norm": 0.6727163281117288,
+      "n_gen": 40,
+      "n_real": 9
+    },
+    "delta_COV_pct": 11.111111111111105
+  },
+  "_summary": {
+    "weighted_COV_unconditional_pct": 41.44144144144144,
+    "weighted_COV_conditional_pct": 45.04504504504504,
+    "weighted_delta_pp": 3.603603603603606,
+    "unweighted_COV_unconditional_pct": 47.5,
+    "unweighted_COV_conditional_pct": 53.51851851851852,
+    "note": "Weighted means are weighted by n_real per territory and are the honest headline; unweighted means over-count small, noisy territories."
+  }
+}

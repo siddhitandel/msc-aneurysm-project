@@ -1,0 +1,15 @@
+{
+  "n_gen": 100,
+  "n_ref": 100,
+  "offset": 0.01,
+  "fidelity_MMD": 0.2042823841317939,
+  "coverage_COV_pct": 39.0,
+  "joint_1NNA_pct": 81.5,
+  "memorization": {
+    "median_gen_to_train": 0.1803120686080043,
+    "median_gen_to_test": 0.19798709853243102,
+    "median_real_test_to_train": 0.19231269559490546,
+    "memorization_ratio": 0.9375983583019496,
+    "suspected_copies": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "n_test_shapes": 111,
+  "latent_dim": 256,
+  "pca_variance_pc1": 0.16007407009601593,
+  "pca_variance_pc2": 0.11950898915529251,
+  "pca_variance_total": 0.27958306670188904,
+  "latent_mean_norm": 6.521803379058838,
+  "latent_std": 0.4103661775588989
+}

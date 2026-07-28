@@ -1,0 +1,43 @@
+{
+  "offset": 0.01,
+  "n_seeds": 5,
+  "n_shapes": 30,
+  "real_median_volume": 1.0222291511434038,
+  "metrics": {
+    "max_diameter": {
+      "ratio_mean": 0.8652226208367063,
+      "ratio_std": 0.018239448907921615,
+      "ks_p_mean": 0.0007672180428807993,
+      "indistinguishable_seeds": 0,
+      "total_seeds": 5
+    },
+    "equiv_diameter": {
+      "ratio_mean": 0.945145532532887,
+      "ratio_std": 0.026948563387030697,
+      "ks_p_mean": 0.3420727017402325,
+      "indistinguishable_seeds": 5,
+      "total_seeds": 5
+    },
+    "volume": {
+      "ratio_mean": 0.8463179648318253,
+      "ratio_std": 0.07123041890732287,
+      "ks_p_mean": 0.3420727017402325,
+      "indistinguishable_seeds": 5,
+      "total_seeds": 5
+    },
+    "surface_area": {
+      "ratio_mean": 0.8656927923874738,
+      "ratio_std": 0.05712830565366302,
+      "ks_p_mean": 0.1578141345498024,
+      "indistinguishable_seeds": 4,
+      "total_seeds": 5
+    },
+    "bbox_diagonal": {
+      "ratio_mean": 0.8964391881210714,
+      "ratio_std": 0.033167276149035856,
+      "ks_p_mean": 0.023879096465883026,
+      "indistinguishable_seeds": 1,
+      "total_seeds": 5
+    }
+  }
+}

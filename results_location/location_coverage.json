@@ -1,0 +1,28 @@
+{
+  "ICA": {
+    "COV_pct": 27.77777777777778,
+    "MMD": 0.20847620621714982,
+    "n_gen": 40,
+    "n_real": 54
+  },
+  "MCA": {
+    "COV_pct": 43.333333333333336,
+    "MMD": 0.20530542344041927,
+    "n_gen": 40,
+    "n_real": 30
+  },
+  "ACA_ACom": {
+    "COV_pct": 55.55555555555556,
+    "MMD": 0.2159754617163127,
+    "n_gen": 40,
+    "n_real": 18
+  },
+  "Posterior": {
+    "COV_pct": 66.66666666666666,
+    "MMD": 0.207869526750083,
+    "n_gen": 40,
+    "n_real": 9
+  },
+  "_mean_territory_COV": 48.33333333333333,
+  "_note": "Compare mean territory COV against unconditional COV ~30%"
+}
